@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5936D681-F545-4817-A7B2-44D8BB2D4FCC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infor.BI.Applications.OlapApi</RootNamespace>
+    <AssemblyName>Infor.BI.Applications.OlapApi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>MisStrongName.key</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infor.BI.Common, Version=10.4.0.287, Culture=neutral, PublicKeyToken=b7f40b7c5f6de4a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath Condition="'$(Configuration)'=='Debug'">..\..\BuildOutput\Debug\Infor.BI.Common.dll</HintPath>
+      <HintPath Condition="'$(Configuration)'=='Release'">..\..\BuildOutput\Release\Infor.BI.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Infor.BI.Common.Application, Version=10.4.0.287, Culture=neutral, PublicKeyToken=b7f40b7c5f6de4a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath Condition="'$(Configuration)'=='Debug'">..\..\BuildOutput\Debug\Infor.BI.Common.Application.dll</HintPath>
+      <HintPath Condition="'$(Configuration)'=='Release'">..\..\BuildOutput\Release\Infor.BI.Common.Application.dll</HintPath>
+    </Reference>
+    <Reference Include="Infor.BI.Log, Version=10.4.0.287, Culture=neutral, PublicKeyToken=b7f40b7c5f6de4a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath Condition="'$(Configuration)'=='Debug'">..\..\BuildOutput\Debug\Infor.BI.Log.dll</HintPath>
+      <HintPath Condition="'$(Configuration)'=='Release'">..\..\BuildOutput\Release\Infor.BI.Log.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Native API\BoolPointer.cs" />
+    <Compile Include="Native API\ErrorConstants.cs" />
+    <Compile Include="Native API\IntPointer.cs" />
+    <Compile Include="Native API\OlapNativeImports32.cs" />
+    <Compile Include="Native API\OlapNativeImports64.cs" />
+    <Compile Include="Native API\IpoStructs.cs" />
+    <Compile Include="Native API\LogEvent.cs" />
+    <Compile Include="Native API\NativeOlapApi.cs" />
+    <Compile Include="Native API\XML Requests\EditDimensionElementRequest.cs" />
+    <Compile Include="Native API\XML Requests\OlapXmlResponse.cs" />
+    <Compile Include="Native API\XML Requests\RequestBase.cs" />
+    <Compile Include="Native API\XML Requests\ResolveUniqueNameRequest.cs" />
+    <Compile Include="Native API\XML Requests\SplashRequest.cs" />
+    <Compile Include="Native API\XML Requests\TriggerLoadFromSourceRequest.cs" />
+    <Compile Include="Object Model\OlapApiDataAreaOperator.cs" />
+    <Compile Include="Object Model\OlapApiDataAreaParameters.cs" />
+    <Compile Include="Object Model\OlapAttributeTableDefinition.cs" />
+    <Compile Include="Object Model\OlapAttributeTableFieldDefinition.cs" />
+    <Compile Include="Object Model\OlapCubeInformation.cs" />
+    <Compile Include="Object Model\OlapCubeType.cs" />
+    <Compile Include="Object Model\OlapSubsetDefinition.cs" />
+    <Compile Include="Interfaces\IOlapCellTransformer.cs" />
+    <Compile Include="Native API\Ipo.cs" />
+    <Compile Include="Object Model\OlapAttributesTables.cs" />
+    <Compile Include="Object Model\OlapAttributeTable.cs" />
+    <Compile Include="Object Model\OlapAttributeTableField.cs" />
+    <Compile Include="Object Model\OlapAttributeTableFields.cs" />
+    <Compile Include="Object Model\OlapAttributeTableFieldType.cs" />
+    <Compile Include="Object Model\OlapCell.cs" />
+    <Compile Include="Object Model\OlapCollectionObjectBase.cs" />
+    <Compile Include="Object Model\OlapCube.cs" />
+    <Compile Include="Object Model\OlapCubes.cs" />
+    <Compile Include="Object Model\OlapDataArea.cs" />
+    <Compile Include="Object Model\OlapDataAreaEnumerator.cs" />
+    <Compile Include="Object Model\OlapDimension.cs" />
+    <Compile Include="Object Model\OlapDimensionInformation.cs" />
+    <Compile Include="Object Model\OlapDimensions.cs" />
+    <Compile Include="Object Model\OlapElement.cs" />
+    <Compile Include="Object Model\OlapElementInformation.cs" />
+    <Compile Include="Object Model\OlapElements.cs" />
+    <Compile Include="Object Model\OlapElementsLevel.cs" />
+    <Compile Include="Object Model\OlapElementType.cs" />
+    <Compile Include="Object Model\OlapException.cs" />
+    <Compile Include="Object Model\OlapObjectBase.cs" />
+    <Compile Include="Object Model\OlapServer.cs" />
+    <Compile Include="Object Model\OlapServerInformation.cs" />
+    <Compile Include="Object Model\OlapServerMode.cs" />
+    <Compile Include="Object Model\OlapServers.cs" />
+    <Compile Include="Object Model\OlapStore.cs" />
+    <Compile Include="Object Model\OlapSubset.cs" />
+    <Compile Include="Object Model\OlapSubsets.cs" />
+    <Compile Include="Object Model\OlapSubsetTypes.cs" />
+    <Compile Include="Object Model\ReferencePathInitializer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Native API\UniFunctions.cs" />
+    <Compile Include="Native API\ServerConstants.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MisStrongName.key" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /E /Y /C  "$(TargetPath)" "$(ProjectDir)..\..\BuildOutput\$(ConfigurationName)\"
+
+xcopy /E /Y /C  "$(TargetDir)$(ProjectName).pdb" "$(ProjectDir)..\..\BuildOutput\$(ConfigurationName)\"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

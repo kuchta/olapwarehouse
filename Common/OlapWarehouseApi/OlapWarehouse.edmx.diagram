@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="da88c00210494a94a8c74e53592b24c2" Name="OlapWarehouse" >
+        <EntityTypeShape EntityType="OlapWarehouseApi.Dimension" Width="1.875" PointX="3" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="OlapWarehouseApi.Element" Width="1.875" PointX="5.5" PointY="3.5" />
+        <EntityTypeShape EntityType="OlapWarehouseApi.Attribute" Width="2" PointX="8" PointY="3.875" />
+        <AssociationConnector Association="OlapWarehouseApi.DimensionElement" />
+        <AssociationConnector Association="OlapWarehouseApi.ElementAttribute" />
+        <EntityTypeShape EntityType="OlapWarehouseApi.Server" Width="1.75" PointX="1.75" PointY="0.5" />
+        <AssociationConnector Association="OlapWarehouseApi.DatabaseDimension" ManuallyRouted="false" >
+        </AssociationConnector>
+        <EntityTypeShape EntityType="OlapWarehouseApi.Cube" Width="1.875" PointX="0.5" PointY="3" />
+        <AssociationConnector Association="OlapWarehouseApi.CubeDimension" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="OlapWarehouseApi.DatabaseCube" />
+        <AssociationConnector Association="OlapWarehouseApi.ElementElement" ManuallyRouted="true" >
+          <ConnectorPoint PointX="7.375" PointY="5.8731733141447364" />
+          <ConnectorPoint PointX="7.625" PointY="5.8731733141447364" />
+          <ConnectorPoint PointX="7.625" PointY="5.1631982421875" />
+          <ConnectorPoint PointX="7.375" PointY="5.1631982421875" />
+        </AssociationConnector>
+        <AssociationConnector Association="OlapWarehouseApi.DimensionDimension" ManuallyRouted="true" >
+          <ConnectorPoint PointX="4.875" PointY="5.3797908248024422" />
+          <ConnectorPoint PointX="5.125" PointY="5.3797908248024422" />
+          <ConnectorPoint PointX="5.125" PointY="4.5670475260416659" />
+          <ConnectorPoint PointX="4.875" PointY="4.5670475260416659" />
+        </AssociationConnector>
+        <EntityTypeShape EntityType="OlapWarehouseApi.Fact" Width="1.875" PointX="0.5" PointY="5.875" />
+        <AssociationConnector Association="OlapWarehouseApi.CubeFact" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

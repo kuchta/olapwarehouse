@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlapWarehouseApi", "OlapWarehouseApi\OlapWarehouseApi.csproj", "{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlapWarehouseWinClient", "OlapWarehouseWinClient\OlapWarehouseWinClient.csproj", "{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infor.BI.Applications.OlapApi", "Infor.BI.Applications.OlapApi\Infor.BI.Applications.OlapApi.csproj", "{5936D681-F545-4817-A7B2-44D8BB2D4FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E6B0C450-C732-4F2B-82EA-739EC83ACC9D}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Debug|x86.ActiveCfg = Debug|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Debug|x86.Build.0 = Debug|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Release|Any CPU.ActiveCfg = Release|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Release|Any CPU.Build.0 = Release|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Release|x86.ActiveCfg = Release|x86
+		{DF97916D-6D8E-4050-91D6-DA3AF674ECDB}.Release|x86.Build.0 = Release|x86
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlapApi", "OlapApi\OlapApi.csproj", "{5936D681-F545-4817-A7B2-44D8BB2D4FCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4976340D-5D8B-4BD4-A574-B0235C63862B}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		OlapApi.vsmdi = OlapApi.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlapApiTests", "OlapApiTests\OlapApiTests.csproj", "{6FC10670-0D28-41FA-9185-432ECE8E5CDE}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = OlapApi.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5936D681-F545-4817-A7B2-44D8BB2D4FCC}.Release|x86.ActiveCfg = Release|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6FC10670-0D28-41FA-9185-432ECE8E5CDE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

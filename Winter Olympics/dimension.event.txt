@@ -1,0 +1,222 @@
+N	500m Short Track S.
+N	1000m Short Track S.
+N	500m Speed Skating
+N	1000m Speed Skating
+C	Biathlon Discipline
+N	10km Biathlon
+N	10km Cross Country S
+N	10km Pursuit Biathlon
+N	10km Pursuit Cross Country S
+N	12,5km Mass Start Biathlon
+N	12.5km Pursuit Biathlon
+N	1500m Short Track S.
+N	1500m Speed Skating
+N	15km Biathlon
+N	15km Cross Country S
+N	15km Mass Start Biathlon
+N	15km Mass Start Cross Country S
+N	18km Cross Country S
+N	20km Biathlon
+N	20km Cross Country S
+N	3000m Relay Short Track S.
+N	5000m Relay Short Track S.
+N	3000m Speed Skating
+N	30km Cross Country S
+N	30km Mass Start Cross Country S
+N	3x5km Relay Cross Country S
+N	3x7.5km Relay Biathlon
+N	4x10km Relay Cross Country S
+N	4x5km Relay Cross Country S
+N	4x6km Relay Biathlon
+N	4x7.5km Relay Biathlon
+N	5000m Speed Skating
+N	10000m Speed Skating
+N	50km Cross Country S
+N	5km Cross Country S
+N	5km Pursuit Cross Country S
+N	7.5km Biathlon
+N	Aerials Freestyle Ski.
+N	Alpine Combined Alpine Skiing
+C	Alpine Skiing
+C	Biathlon
+C	Bobsleigh
+C	Bobsleigh Discipline
+N	Combined (4 Events) Speed Skating
+N	Combined 10km + 15km Pursuit Cross Country S
+N	Combined 15 + 15km Mass Start Cross Country S
+N	Combined 5km + 10km Pursuit Cross Country S
+N	Combined 7.5 + 7.5km Mass Start Cross Country S
+C	Cross Country S
+C	Curling
+C	Curling Discipline
+N	Curling Curling
+C	Luge Discipline
+N	Singles Luge
+N	Doubles Luge
+N	Downhill Alpine Skiing
+C	All events
+C	Figure Skating
+N	Two-man Bobsleigh
+N	Four-man Bobsleigh
+N	Five-man Bobsleigh
+N	Two-woman Bobsleigh
+C	Freestyle Ski.
+N	Giant Parallel Slalom Snowboard
+N	Giant Slalom Alpine Skiing
+N	Giant-slalom Snowboard
+N	Half-pipe Snowboard
+N	Ice Dancing Figure Skating
+C	Ice Hockey
+C	Ice Hockey Discipline
+N	Ice Hockey Ice Hockey
+N	Individual Figure Skating
+N	Individual Nordic Combined
+N	Individual Skeleton
+N	Individual Sprint Nordic Combined
+N	K120 Individual (90m) Ski Jumping
+N	K120 Team (90m) Ski Jumping
+N	K90 Individual (70m) Ski Jumping
+C	Luge
+N	Military Patrol Biathlon
+N	Moguls Freestyle Ski.
+N	Ski Cross
+C	Nordic Combined
+N	Pairs Figure Skating
+C	Short Track S.
+C	Skating
+C	Skeleton
+C	Ski Jumping
+C	Skiing
+N	Slalom Alpine Skiing
+C	Snowboard
+N	Snowboard Cross Snowboard
+C	Speed Skating
+N	Sprint 1,5km Cross Country S
+N	Sprint 1.5km Cross Country S
+N	Sprint Nordic Combined
+N	Super-g Alpine Skiing
+N	Team Nordic Combined
+N	Team Pursuit Speed Skating
+N	Team Sprint Cross Country S
+C	Biathlon Discipline
+	10km Biathlon
+	10km Pursuit Biathlon
+	12,5km Mass Start Biathlon
+	12.5km Pursuit Biathlon
+	15km Biathlon
+	15km Mass Start Biathlon
+	20km Biathlon
+	3x7.5km Relay Biathlon
+	4x6km Relay Biathlon
+	4x7.5km Relay Biathlon
+	7.5km Biathlon
+	Military Patrol Biathlon
+C	Alpine Skiing
+	Alpine Combined Alpine Skiing
+	Downhill Alpine Skiing
+	Giant Slalom Alpine Skiing
+	Slalom Alpine Skiing
+	Super-g Alpine Skiing
+C	Biathlon
+	Biathlon Discipline
+C	Bobsleigh
+	Bobsleigh Discipline
+	Skeleton
+C	Bobsleigh Discipline
+	Two-man Bobsleigh
+	Four-man Bobsleigh
+	Five-man Bobsleigh
+	Two-woman Bobsleigh
+C	Cross Country S
+	10km Cross Country S
+	10km Pursuit Cross Country S
+	15km Cross Country S
+	15km Mass Start Cross Country S
+	18km Cross Country S
+	20km Cross Country S
+	30km Cross Country S
+	30km Mass Start Cross Country S
+	3x5km Relay Cross Country S
+	4x10km Relay Cross Country S
+	4x5km Relay Cross Country S
+	50km Cross Country S
+	5km Cross Country S
+	5km Pursuit Cross Country S
+	Combined 10km + 15km Pursuit Cross Country S
+	Combined 15 + 15km Mass Start Cross Country S
+	Combined 5km + 10km Pursuit Cross Country S
+	Combined 7.5 + 7.5km Mass Start Cross Country S
+	Sprint 1,5km Cross Country S
+	Sprint 1.5km Cross Country S
+	Team Sprint Cross Country S
+C	Curling
+	Curling Discipline
+C	Curling Discipline
+	Curling Curling
+C	Luge Discipline
+	Singles Luge
+	Doubles Luge
+C	All events
+	Biathlon
+	Bobsleigh
+	Curling
+	Ice Hockey
+	Luge
+	Skating
+	Skiing
+C	Figure Skating
+	Ice Dancing Figure Skating
+	Individual Figure Skating
+	Pairs Figure Skating
+C	Freestyle Ski.
+	Aerials Freestyle Ski.
+	Moguls Freestyle Ski.
+	Ski Cross
+C	Ice Hockey
+	Ice Hockey Discipline
+C	Ice Hockey Discipline
+	Ice Hockey Ice Hockey
+C	Luge
+	Luge Discipline
+C	Nordic Combined
+	Individual Nordic Combined
+	Individual Sprint Nordic Combined
+	Sprint Nordic Combined
+	Team Nordic Combined
+C	Short Track S.
+	500m Short Track S.
+	1000m Short Track S.
+	1500m Short Track S.
+	3000m Relay Short Track S.
+	5000m Relay Short Track S.
+C	Skating
+	Figure Skating
+	Short Track S.
+	Speed Skating
+C	Skeleton
+	Individual Skeleton
+C	Ski Jumping
+	K120 Individual (90m) Ski Jumping
+	K120 Team (90m) Ski Jumping
+	K90 Individual (70m) Ski Jumping
+C	Skiing
+	Alpine Skiing
+	Cross Country S
+	Freestyle Ski.
+	Nordic Combined
+	Ski Jumping
+	Snowboard
+C	Snowboard
+	Giant Parallel Slalom Snowboard
+	Giant-slalom Snowboard
+	Half-pipe Snowboard
+	Snowboard Cross Snowboard
+C	Speed Skating
+	500m Speed Skating
+	1000m Speed Skating
+	1500m Speed Skating
+	3000m Speed Skating
+	5000m Speed Skating
+	10000m Speed Skating
+	Combined (4 Events) Speed Skating
+	Team Pursuit Speed Skating

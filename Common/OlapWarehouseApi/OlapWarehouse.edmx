@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="OlapWarehouseApi.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="OlapWarehouseApiStoreContainer">
+    <EntitySet Name="Elements" EntityType="OlapWarehouseApi.Store.Elements" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Dimensions" EntityType="OlapWarehouseApi.Store.Dimensions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Servers" EntityType="OlapWarehouseApi.Store.Servers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Cubes" EntityType="OlapWarehouseApi.Store.Cubes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Attributes" EntityType="OlapWarehouseApi.Store.Attributes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Facts" EntityType="OlapWarehouseApi.Store.Facts" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="DimensionElement" Association="OlapWarehouseApi.Store.DimensionElement">
+      <End Role="Dimension" EntitySet="Dimensions" />
+      <End Role="Element" EntitySet="Elements" />
+    </AssociationSet>
+    <AssociationSet Name="ElementAttribute" Association="OlapWarehouseApi.Store.ElementAttribute">
+      <End Role="Element" EntitySet="Elements" />
+      <End Role="Attribute" EntitySet="Attributes" />
+    </AssociationSet>
+    <AssociationSet Name="DatabaseDimension" Association="OlapWarehouseApi.Store.DatabaseDimension">
+      <End Role="Database" EntitySet="Servers" />
+      <End Role="Dimension" EntitySet="Dimensions" />
+    </AssociationSet>
+    <AssociationSet Name="CubeDimension" Association="OlapWarehouseApi.Store.CubeDimension">
+      <End Role="Cube" EntitySet="Cubes" />
+      <End Role="Dimension" EntitySet="Dimensions" />
+    </AssociationSet>
+    <AssociationSet Name="DatabaseCube" Association="OlapWarehouseApi.Store.DatabaseCube">
+      <End Role="Database" EntitySet="Servers" />
+      <End Role="Cube" EntitySet="Cubes" />
+    </AssociationSet>
+    <AssociationSet Name="ElementElement" Association="OlapWarehouseApi.Store.ElementElement">
+      <End Role="ElementParent" EntitySet="Elements" />
+      <End Role="ElementChildren" EntitySet="Elements" />
+    </AssociationSet>
+    <AssociationSet Name="DimensionDimension" Association="OlapWarehouseApi.Store.DimensionDimension">
+      <End Role="DimensionParent" EntitySet="Dimensions" />
+      <End Role="DimensionChildren" EntitySet="Dimensions" />
+    </AssociationSet>
+    <AssociationSet Name="CubeFact" Association="OlapWarehouseApi.Store.CubeFact">
+      <End Role="Cube" EntitySet="Cubes" />
+      <End Role="Fact" EntitySet="Facts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Elements">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Caption" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Weight" Type="real" Nullable="true" />
+    <Property Name="Order" Type="smallint" Nullable="true" />
+    <Property Name="DimensionId" Type="int" Nullable="false" />
+    <Property Name="ElementId" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Dimensions">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="DatabaseId" Type="int" Nullable="true" />
+    <Property Name="CubeId" Type="int" Nullable="true" />
+    <Property Name="DimensionId" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Servers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Cubes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="DatabaseId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Attributes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Value" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ElementId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Facts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CubeId" Type="int" Nullable="false" />
+    <Property Name="ElementId1" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ElementId2" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ElementId3" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="ElementId4" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="ElementId5" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="Value" Type="float" Nullable="false" />
+  </EntityType>
+  <Association Name="DimensionElement">
+    <End Role="Dimension" Type="OlapWarehouseApi.Store.Dimensions" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Element" Type="OlapWarehouseApi.Store.Elements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Dimension">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Element">
+        <PropertyRef Name="DimensionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ElementAttribute">
+    <End Role="Element" Type="OlapWarehouseApi.Store.Elements" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Attribute" Type="OlapWarehouseApi.Store.Attributes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Element">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Attribute">
+        <PropertyRef Name="ElementId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DatabaseDimension">
+    <End Role="Database" Type="OlapWarehouseApi.Store.Servers" Multiplicity="0..1" />
+    <End Role="Dimension" Type="OlapWarehouseApi.Store.Dimensions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Database">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dimension">
+        <PropertyRef Name="DatabaseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CubeDimension">
+    <End Role="Cube" Type="OlapWarehouseApi.Store.Cubes" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Dimension" Type="OlapWarehouseApi.Store.Dimensions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cube">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Dimension">
+        <PropertyRef Name="CubeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DatabaseCube">
+    <End Role="Database" Type="OlapWarehouseApi.Store.Servers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cube" Type="OlapWarehouseApi.Store.Cubes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Database">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cube">
+        <PropertyRef Name="DatabaseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ElementElement">
+    <End Role="ElementParent" Type="OlapWarehouseApi.Store.Elements" Multiplicity="0..1" />
+    <End Role="ElementChildren" Type="OlapWarehouseApi.Store.Elements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ElementParent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ElementChildren">
+        <PropertyRef Name="ElementId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DimensionDimension">
+    <End Role="DimensionParent" Type="OlapWarehouseApi.Store.Dimensions" Multiplicity="0..1" />
+    <End Role="DimensionChildren" Type="OlapWarehouseApi.Store.Dimensions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DimensionParent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="DimensionChildren">
+        <PropertyRef Name="DimensionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CubeFact">
+    <End Role="Cube" Type="OlapWarehouseApi.Store.Cubes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Fact" Type="OlapWarehouseApi.Store.Facts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cube">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Fact">
+        <PropertyRef Name="CubeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="OlapWarehouseApi" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="OlapWarehouse" annotation:LazyLoadingEnabled="false">
+          <AssociationSet Name="DimensionElement" Association="OlapWarehouseApi.DimensionElement">
+            <End Role="Dimension" EntitySet="Dimensions" />
+            <End Role="Element" EntitySet="Elements" />
+          </AssociationSet>
+          <AssociationSet Name="ElementAttribute" Association="OlapWarehouseApi.ElementAttribute">
+            <End Role="Element" EntitySet="Elements" />
+            <End Role="Attribute" EntitySet="Attributes" />
+          </AssociationSet>
+          <AssociationSet Name="DatabaseDimension" Association="OlapWarehouseApi.DatabaseDimension">
+            <End Role="Database" EntitySet="Servers" />
+            <End Role="Dimension" EntitySet="Dimensions" />
+          </AssociationSet>
+          <AssociationSet Name="CubeDimension" Association="OlapWarehouseApi.CubeDimension">
+            <End Role="Cube" EntitySet="Cubes" />
+            <End Role="Dimension" EntitySet="Dimensions" />
+          </AssociationSet>
+          <AssociationSet Name="DatabaseCube" Association="OlapWarehouseApi.DatabaseCube">
+            <End Role="Database" EntitySet="Servers" />
+            <End Role="Cube" EntitySet="Cubes" />
+          </AssociationSet>
+          <AssociationSet Name="ElementElement" Association="OlapWarehouseApi.ElementElement">
+            <End Role="ElementParent" EntitySet="Elements" />
+            <End Role="ElementChildren" EntitySet="Elements" />
+          </AssociationSet>
+          <EntitySet Name="Elements" EntityType="OlapWarehouseApi.Element" />
+          <EntitySet Name="Dimensions" EntityType="OlapWarehouseApi.Dimension" />
+          <EntitySet Name="Servers" EntityType="OlapWarehouseApi.Server" />
+          <EntitySet Name="Cubes" EntityType="OlapWarehouseApi.Cube" />
+          <EntitySet Name="Attributes" EntityType="OlapWarehouseApi.Attribute" />
+          <AssociationSet Name="DimensionDimension" Association="OlapWarehouseApi.DimensionDimension">
+            <End Role="DimensionParent" EntitySet="Dimensions" />
+            <End Role="DimensionChildren" EntitySet="Dimensions" />
+          </AssociationSet>
+          <EntitySet Name="Facts" EntityType="OlapWarehouseApi.Fact" />
+          <AssociationSet Name="CubeFact" Association="OlapWarehouseApi.CubeFact">
+            <End Role="Cube" EntitySet="Cubes" />
+            <End Role="Fact" EntitySet="Facts" />
+          </AssociationSet>
+          </EntityContainer>
+        <EntityType Name="Dimension">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <NavigationProperty Name="Server" Relationship="OlapWarehouseApi.DatabaseDimension" FromRole="Dimension" ToRole="Database" />
+          <NavigationProperty Name="Cube" Relationship="OlapWarehouseApi.CubeDimension" FromRole="Dimension" ToRole="Cube" />
+          <NavigationProperty Name="Template" Relationship="OlapWarehouseApi.DimensionDimension" FromRole="DimensionChildren" ToRole="DimensionParent" />
+          <NavigationProperty Name="Dimensions" Relationship="OlapWarehouseApi.DimensionDimension" FromRole="DimensionParent" ToRole="DimensionChildren" />
+          <NavigationProperty Name="Elements" Relationship="OlapWarehouseApi.DimensionElement" FromRole="Dimension" ToRole="Element" />
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Type="String" Name="Description" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Type="Int32" Name="ServerId" cg:SetterAccess="Protected" cg:GetterAccess="Public" Nullable="true" />
+          <Property Type="Int32" Name="CubeId" Nullable="true" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <Property Type="Int32" Name="DimensionId" Nullable="true" cg:GetterAccess="Public" />
+        </EntityType>
+        <EntityType Name="Element">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Type="String" Name="Description" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Type="String" Name="Caption" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Type="Single" Name="Weight" Nullable="true" />
+          <Property Type="Int16" Name="Order" Nullable="true" />
+          <Property Type="Int32" Name="DimensionId" Nullable="false" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <NavigationProperty Name="Dimension" Relationship="OlapWarehouseApi.DimensionElement" FromRole="Element" ToRole="Dimension" cg:GetterAccess="Public" cg:SetterAccess="Public" />
+          <NavigationProperty Name="Parent" Relationship="OlapWarehouseApi.ElementElement" FromRole="ElementChildren" ToRole="ElementParent" />
+          <NavigationProperty Name="Children" Relationship="OlapWarehouseApi.ElementElement" FromRole="ElementParent" ToRole="ElementChildren" />
+          <NavigationProperty Name="Attributes" Relationship="OlapWarehouseApi.ElementAttribute" FromRole="Element" ToRole="Attribute" />
+          <Property Type="Int32" Name="ElementId" Nullable="true" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          </EntityType>
+        <EntityType Name="Attribute">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Type="String" Name="Value" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Type="Int32" Name="ElementId" Nullable="false" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <NavigationProperty Name="Element" Relationship="OlapWarehouseApi.ElementAttribute" FromRole="Attribute" ToRole="Element" />
+        </EntityType>
+        <Association Name="DimensionElement">
+          <End Type="OlapWarehouseApi.Dimension" Role="Dimension" Multiplicity="1" >
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="OlapWarehouseApi.Element" Role="Element" Multiplicity="*" >
+          </End>
+          <ReferentialConstraint>
+            <Principal Role="Dimension">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Element">
+              <PropertyRef Name="DimensionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ElementAttribute">
+          <End Type="OlapWarehouseApi.Element" Role="Element" Multiplicity="1" >
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="OlapWarehouseApi.Attribute" Role="Attribute" Multiplicity="*" >
+          </End>
+          <ReferentialConstraint>
+            <Principal Role="Element">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Attribute">
+              <PropertyRef Name="ElementId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Server">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <NavigationProperty Name="Cubes" Relationship="OlapWarehouseApi.DatabaseCube" FromRole="Database" ToRole="Cube" />
+          <NavigationProperty Name="Dimensions" Relationship="OlapWarehouseApi.DatabaseDimension" FromRole="Database" ToRole="Dimension" />
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Type="String" Name="Description" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <Association Name="DatabaseDimension">
+          <End Type="OlapWarehouseApi.Server" Role="Database" Multiplicity="0..1" >
+          </End>
+          <End Type="OlapWarehouseApi.Dimension" Role="Dimension" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Database">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dimension">
+              <PropertyRef Name="ServerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Cube">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Type="String" Name="Description" Nullable="true" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="Server" Relationship="OlapWarehouseApi.DatabaseCube" FromRole="Cube" ToRole="Database" />
+          <NavigationProperty Name="Dimensions" Relationship="OlapWarehouseApi.CubeDimension" FromRole="Cube" ToRole="Dimension" />
+          <Property Type="Int32" Name="ServerId" Nullable="false" cg:SetterAccess="Protected" cg:GetterAccess="Public" />
+          <NavigationProperty Name="Facts" Relationship="OlapWarehouseApi.CubeFact" FromRole="Cube" ToRole="Fact" />
+        </EntityType>
+        <Association Name="CubeDimension">
+          <End Type="OlapWarehouseApi.Cube" Role="Cube" Multiplicity="0..1" >
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="OlapWarehouseApi.Dimension" Role="Dimension" Multiplicity="*" >
+          </End>
+          <ReferentialConstraint>
+            <Principal Role="Cube">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Dimension">
+              <PropertyRef Name="CubeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="DatabaseCube">
+          <End Type="OlapWarehouseApi.Server" Role="Database" Multiplicity="1" >
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="OlapWarehouseApi.Cube" Role="Cube" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Database">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Cube">
+              <PropertyRef Name="ServerId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="ElementElement">
+          <End Type="OlapWarehouseApi.Element" Role="ElementParent" Multiplicity="0..1" >
+          </End>
+          <End Type="OlapWarehouseApi.Element" Role="ElementChildren" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ElementParent">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ElementChildren">
+              <PropertyRef Name="ElementId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="DimensionDimension">
+          <End Type="OlapWarehouseApi.Dimension" Role="DimensionParent" Multiplicity="0..1" >
+          </End>
+          <End Type="OlapWarehouseApi.Dimension" Role="DimensionChildren" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DimensionParent">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="DimensionChildren">
+              <PropertyRef Name="DimensionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Fact">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <NavigationProperty Name="Cube" Relationship="OlapWarehouseApi.CubeFact" FromRole="Fact" ToRole="Cube" />
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" />
+          <Property Type="Int32" Name="CubeId" Nullable="false" cg:GetterAccess="Public" />
+          <Property Type="String" Name="ElementId1" Nullable="false" cg:GetterAccess="Public" MaxLength="50" />
+          <Property Type="String" Name="ElementId2" Nullable="false" cg:GetterAccess="Public" MaxLength="50" />
+          <Property Type="String" Name="ElementId3" cg:GetterAccess="Public" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="ElementId4" cg:GetterAccess="Public" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="ElementId5" cg:GetterAccess="Public" Nullable="true" MaxLength="50" />
+          <Property Type="Double" Name="Value" Nullable="false" />
+        </EntityType>
+        <Association Name="CubeFact">
+          <End Type="OlapWarehouseApi.Cube" Role="Cube" Multiplicity="1" >
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Type="OlapWarehouseApi.Fact" Role="Fact" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cube">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Fact">
+              <PropertyRef Name="CubeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OlapWarehouseApiStoreContainer" CdmEntityContainer="OlapWarehouse">
+    <EntitySetMapping Name="Elements">
+      <EntityTypeMapping TypeName="IsTypeOf(OlapWarehouseApi.Element)">
+        <MappingFragment StoreEntitySet="Elements">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Caption" ColumnName="Caption" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Order" ColumnName="Order" />
+          <ScalarProperty Name="DimensionId" ColumnName="DimensionId" />
+          <ScalarProperty Name="ElementId" ColumnName="ElementId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dimensions">
+      <EntityTypeMapping TypeName="IsTypeOf(OlapWarehouseApi.Dimension)">
+        <MappingFragment StoreEntitySet="Dimensions">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ServerId" ColumnName="DatabaseId" />
+          <ScalarProperty Name="CubeId" ColumnName="CubeId" />
+          <ScalarProperty Name="DimensionId" ColumnName="DimensionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Servers">
+      <EntityTypeMapping TypeName="IsTypeOf(OlapWarehouseApi.Server)">
+        <MappingFragment StoreEntitySet="Servers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cubes">
+      <EntityTypeMapping TypeName="IsTypeOf(OlapWarehouseApi.Cube)">
+        <MappingFragment StoreEntitySet="Cubes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ServerId" ColumnName="DatabaseId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Attributes">
+      <EntityTypeMapping TypeName="IsTypeOf(OlapWarehouseApi.Attribute)">
+        <MappingFragment StoreEntitySet="Attributes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+          <ScalarProperty Name="ElementId" ColumnName="ElementId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Facts">
+      <EntityTypeMapping TypeName="IsTypeOf(OlapWarehouseApi.Fact)">
+        <MappingFragment StoreEntitySet="Facts">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CubeId" ColumnName="CubeId" />
+          <ScalarProperty Name="ElementId1" ColumnName="ElementId1" />
+          <ScalarProperty Name="ElementId2" ColumnName="ElementId2" />
+          <ScalarProperty Name="ElementId3" ColumnName="ElementId3" />
+          <ScalarProperty Name="ElementId4" ColumnName="ElementId4" />
+          <ScalarProperty Name="ElementId5" ColumnName="ElementId5" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="True" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

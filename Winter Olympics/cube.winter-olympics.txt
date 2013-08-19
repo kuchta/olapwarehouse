@@ -1,0 +1,2562 @@
+2002	AUS	1000m Short Track S.	M	Gold	1
+1994	AUS	5000m Relay Short Track S.	M	Bronze	1
+2006	AUS	Moguls Freestyle Ski.	M	Gold	1
+2010	AUS	Moguls Freestyle Ski.	M	Silver	1
+1924	AUT	Individual Figure Skating	M	Silver	1
+1928	AUT	Individual Figure Skating	M	Silver	1
+1932	AUT	Individual Figure Skating	M	Gold	1
+1936	AUT	Individual Figure Skating	M	Gold	1
+1936	AUT	Individual Figure Skating	M	Bronze	1
+1936	AUT	10000m Speed Skating	M	Bronze	1
+1948	AUT	Individual Figure Skating	M	Bronze	1
+1948	AUT	Downhill Alpine Skiing	M	Silver	1
+1952	AUT	Slalom Alpine Skiing	M	Gold	1
+1952	AUT	Individual Figure Skating	M	Silver	1
+1952	AUT	Downhill Alpine Skiing	M	Silver	1
+1952	AUT	Giant Slalom Alpine Skiing	M	Silver	1
+1952	AUT	Downhill Alpine Skiing	M	Bronze	1
+1952	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1956	AUT	Downhill Alpine Skiing	M	Gold	1
+1956	AUT	Downhill Alpine Skiing	M	Bronze	1
+1956	AUT	Giant Slalom Alpine Skiing	M	Gold	1
+1956	AUT	Giant Slalom Alpine Skiing	M	Silver	1
+1956	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1956	AUT	Slalom Alpine Skiing	M	Gold	1
+1960	AUT	Giant Slalom Alpine Skiing	M	Silver	1
+1960	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1960	AUT	Slalom Alpine Skiing	M	Gold	1
+1960	AUT	Slalom Alpine Skiing	M	Silver	1
+1960	AUT	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1964	AUT	Four-man Bobsleigh	M	Silver	1
+1964	AUT	Downhill Alpine Skiing	M	Gold	1
+1964	AUT	Giant Slalom Alpine Skiing	M	Silver	1
+1964	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1964	AUT	Slalom Alpine Skiing	M	Gold	1
+1968	AUT	Four-man Bobsleigh	M	Silver	1
+1968	AUT	Singles Luge	M	Gold	1
+1968	AUT	Individual Figure Skating	M	Gold	1
+1968	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1968	AUT	Slalom Alpine Skiing	M	Silver	1
+1968	AUT	Slalom Alpine Skiing	M	Bronze	1
+1968	AUT	K90 Individual (70m) Ski Jumping	M	Silver	1
+1968	AUT	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1972	AUT	Downhill Alpine Skiing	M	Bronze	1
+1976	AUT	Downhill Alpine Skiing	M	Gold	1
+1976	AUT	K120 Individual (90m) Ski Jumping	M	Gold	1
+1976	AUT	K120 Individual (90m) Ski Jumping	M	Silver	1
+1976	AUT	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1980	AUT	Downhill Alpine Skiing	M	Gold	1
+1980	AUT	Downhill Alpine Skiing	M	Silver	1
+1980	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1980	AUT	K120 Individual (90m) Ski Jumping	M	Silver	1
+1980	AUT	K90 Individual (70m) Ski Jumping	M	Gold	1
+1984	AUT	Downhill Alpine Skiing	M	Bronze	1
+1988	AUT	1500m Speed Skating	M	Bronze	1
+1988	AUT	10000m Speed Skating	M	Silver	1
+1988	AUT	Alpine Combined Alpine Skiing	M	Gold	1
+1988	AUT	Alpine Combined Alpine Skiing	M	Silver	1
+1988	AUT	Giant Slalom Alpine Skiing	M	Silver	1
+1988	AUT	Super-g Alpine Skiing	M	Silver	1
+1988	AUT	Individual Nordic Combined	M	Silver	1
+1988	AUT	Team Nordic Combined	M	Bronze	1
+1992	AUT	Four-man Bobsleigh	M	Gold	1
+1992	AUT	Singles Luge	M	Silver	1
+1992	AUT	Singles Luge	M	Bronze	1
+1992	AUT	Downhill Alpine Skiing	M	Gold	1
+1992	AUT	Downhill Alpine Skiing	M	Bronze	1
+1992	AUT	Slalom Alpine Skiing	M	Bronze	1
+1992	AUT	Individual Nordic Combined	M	Bronze	1
+1992	AUT	Team Nordic Combined	M	Bronze	1
+1992	AUT	K120 Individual (90m) Ski Jumping	M	Silver	1
+1992	AUT	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1992	AUT	K120 Team (90m) Ski Jumping	M	Silver	1
+1992	AUT	K90 Individual (70m) Ski Jumping	M	Gold	1
+1992	AUT	K90 Individual (70m) Ski Jumping	M	Silver	1
+1994	AUT	Singles Luge	M	Silver	1
+1994	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+1994	AUT	Slalom Alpine Skiing	M	Gold	1
+1994	AUT	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1994	AUT	K120 Team (90m) Ski Jumping	M	Bronze	1
+1998	AUT	Alpine Combined Alpine Skiing	M	Gold	1
+1998	AUT	Alpine Combined Alpine Skiing	M	Bronze	1
+1998	AUT	Downhill Alpine Skiing	M	Bronze	1
+1998	AUT	Giant Slalom Alpine Skiing	M	Gold	1
+1998	AUT	Giant Slalom Alpine Skiing	M	Silver	1
+1998	AUT	Slalom Alpine Skiing	M	Bronze	1
+1998	AUT	Super-g Alpine Skiing	M	Gold	1
+1998	AUT	Super-g Alpine Skiing	M	Silver	1
+1998	AUT	10km Pursuit Cross Country S	M	Silver	1
+1998	AUT	50km Cross Country S	M	Bronze	1
+1998	AUT	K120 Team (90m) Ski Jumping	M	Bronze	1
+1998	AUT	K90 Individual (70m) Ski Jumping	M	Bronze	1
+2002	AUT	10km Biathlon	M	Bronze	1
+2002	AUT	Individual Skeleton	M	Silver	1
+2002	AUT	Singles Luge	M	Bronze	1
+2002	AUT	Alpine Combined Alpine Skiing	M	Bronze	1
+2002	AUT	Downhill Alpine Skiing	M	Gold	1
+2002	AUT	Downhill Alpine Skiing	M	Bronze	1
+2002	AUT	Giant Slalom Alpine Skiing	M	Gold	1
+2002	AUT	Slalom Alpine Skiing	M	Bronze	1
+2002	AUT	Super-g Alpine Skiing	M	Silver	1
+2002	AUT	Super-g Alpine Skiing	M	Bronze	1
+2002	AUT	30km Mass Start Cross Country S	M	Gold	1
+2002	AUT	30km Mass Start Cross Country S	M	Silver	1
+2002	AUT	Individual Nordic Combined	M	Bronze	1
+2002	AUT	Sprint Nordic Combined	M	Bronze	1
+2002	AUT	Team Nordic Combined	M	Bronze	1
+2006	AUT	Alpine Combined Alpine Skiing	M	Bronze	1
+2006	AUT	Downhill Alpine Skiing	M	Silver	1
+2006	AUT	Giant Slalom Alpine Skiing	M	Gold	1
+2006	AUT	Giant Slalom Alpine Skiing	M	Bronze	1
+2006	AUT	Slalom Alpine Skiing	M	Gold	1
+2006	AUT	Slalom Alpine Skiing	M	Silver	1
+2006	AUT	Slalom Alpine Skiing	M	Bronze	1
+2006	AUT	Super-g Alpine Skiing	M	Silver	1
+2006	AUT	50km Cross Country S	M	Bronze	1
+2006	AUT	Individual Nordic Combined	M	Silver	1
+2006	AUT	Individual Sprint Nordic Combined	M	Gold	1
+2006	AUT	Team Nordic Combined	M	Gold	1
+2006	AUT	K120 Individual (90m) Ski Jumping	M	Gold	1
+2006	AUT	K120 Individual (90m) Ski Jumping	M	Silver	1
+2006	AUT	K120 Team (90m) Ski Jumping	M	Gold	1
+2006	AUT	Giant Parallel Slalom Snowboard	M	Bronze	1
+2010	AUT	Team Nordic Combined	M	Gold	1
+2010	AUT	K120 Team (90m) Ski Jumping	M	Gold	1
+2010	AUT	12.5km Pursuit Biathlon	M	Silver	1
+2010	AUT	4x7.5km Relay Biathlon	M	Silver	1
+2010	AUT	Ski Cross	M	Silver	1
+2010	AUT	Giant Parallel Slalom Snowboard	M	Silver	1
+2010	AUT	Individual Sprint Nordic Combined	M	Bronze	1
+2010	AUT	K120 Individual (90m) Ski Jumping	M	Bronze	1
+2010	AUT	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1924	BEL	Four-man Bobsleigh	M	Bronze	1
+1948	BEL	Four-man Bobsleigh	M	Silver	1
+1928	BEL	Individual Figure Skating	M	Bronze	1
+1998	BEL	5000m Speed Skating	M	Bronze	1
+1994	BLR	1000m Speed Skating	M	Silver	1
+1998	BLR	20km Biathlon	M	Bronze	1
+1998	BLR	Aerials Freestyle Ski.	M	Bronze	1
+2002	BLR	Aerials Freestyle Ski.	M	Bronze	1
+2006	BLR	Aerials Freestyle Ski.	M	Silver	1
+2010	BLR	20km Biathlon	M	Silver	1
+2010	BLR	Aerials Freestyle Ski.	M	Gold	1
+1980	BUL	30km Mass Start Cross Country S	M	Bronze	1
+1998	CAN	Two-man Bobsleigh	M	Gold	1
+2006	CAN	Two-man Bobsleigh	M	Silver	1
+1964	CAN	Four-man Bobsleigh	M	Gold	1
+2010	CAN	Four-man Bobsleigh	M	Bronze	1
+2006	CAN	Individual Skeleton	M	Gold	1
+2006	CAN	Individual Skeleton	M	Silver	1
+2010	CAN	Individual Skeleton	M	Gold	1
+2006	CAN	Curling Curling	M	Gold	1
+2010	CAN	Curling Curling	M	Gold	1
+1998	CAN	Curling Curling	M	Silver	1
+2002	CAN	Curling Curling	M	Silver	1
+1924	CAN	Ice Hockey Ice Hockey	M	Gold	1
+1928	CAN	Ice Hockey Ice Hockey	M	Gold	1
+1932	CAN	Ice Hockey Ice Hockey	M	Gold	1
+1948	CAN	Ice Hockey Ice Hockey	M	Gold	1
+1952	CAN	Ice Hockey Ice Hockey	M	Gold	1
+2002	CAN	Ice Hockey Ice Hockey	M	Gold	1
+2010	CAN	Ice Hockey Ice Hockey	M	Gold	1
+1936	CAN	Ice Hockey Ice Hockey	M	Silver	1
+1960	CAN	Ice Hockey Ice Hockey	M	Silver	1
+1992	CAN	Ice Hockey Ice Hockey	M	Silver	1
+1994	CAN	Ice Hockey Ice Hockey	M	Silver	1
+1956	CAN	Ice Hockey Ice Hockey	M	Bronze	1
+1968	CAN	Ice Hockey Ice Hockey	M	Bronze	1
+1984	CAN	Individual Figure Skating	M	Silver	1
+1988	CAN	Individual Figure Skating	M	Silver	1
+1994	CAN	Individual Figure Skating	M	Silver	1
+1998	CAN	Individual Figure Skating	M	Silver	1
+1932	CAN	Individual Figure Skating	M	Bronze	1
+1960	CAN	Individual Figure Skating	M	Bronze	1
+1976	CAN	Individual Figure Skating	M	Bronze	1
+2006	CAN	Individual Figure Skating	M	Bronze	1
+2002	CAN	500m Short Track S.	M	Gold	1
+2002	CAN	500m Short Track S.	M	Silver	1
+2006	CAN	500m Short Track S.	M	Silver	1
+2010	CAN	500m Short Track S.	M	Gold	1
+2010	CAN	500m Short Track S.	M	Bronze	1
+1992	CAN	1000m Short Track S.	M	Silver	1
+1994	CAN	1000m Short Track S.	M	Bronze	1
+1998	CAN	1000m Short Track S.	M	Bronze	1
+2002	CAN	1000m Short Track S.	M	Bronze	1
+2002	CAN	1500m Short Track S.	M	Bronze	1
+1992	CAN	5000m Relay Short Track S.	M	Silver	1
+1998	CAN	5000m Relay Short Track S.	M	Gold	1
+2002	CAN	5000m Relay Short Track S.	M	Gold	1
+2006	CAN	5000m Relay Short Track S.	M	Silver	1
+2010	CAN	5000m Relay Short Track S.	M	Gold	1
+1932	CAN	500m Speed Skating	M	Bronze	1
+1952	CAN	500m Speed Skating	M	Bronze	1
+1984	CAN	500m Speed Skating	M	Bronze	1
+1998	CAN	500m Speed Skating	M	Silver	1
+1998	CAN	500m Speed Skating	M	Bronze	1
+1980	CAN	1000m Speed Skating	M	Silver	1
+1984	CAN	1000m Speed Skating	M	Gold	1
+1932	CAN	1500m Speed Skating	M	Silver	1
+1932	CAN	1500m Speed Skating	M	Bronze	1
+1984	CAN	1500m Speed Skating	M	Gold	1
+1932	CAN	5000m Speed Skating	M	Bronze	1
+1932	CAN	10000m Speed Skating	M	Bronze	1
+2006	CAN	Team Pursuit Speed Skating	M	Silver	1
+2010	CAN	Team Pursuit Speed Skating	M	Gold	1
+1980	CAN	Downhill Alpine Skiing	M	Bronze	1
+1994	CAN	Downhill Alpine Skiing	M	Bronze	1
+1994	CAN	Aerials Freestyle Ski.	M	Silver	1
+1994	CAN	Aerials Freestyle Ski.	M	Bronze	1
+1994	CAN	Moguls Freestyle Ski.	M	Gold	1
+2010	CAN	Moguls Freestyle Ski.	M	Gold	1
+2010	CAN	Giant Parallel Slalom Snowboard	M	Gold	1
+1998	CAN	Giant-slalom Snowboard	M	Gold	1
+2010	CAN	Snowboard Cross Snowboard	M	Silver	1
+1998	CHN	500m Short Track S.	M	Silver	1
+1998	CHN	1000m Short Track S.	M	Silver	1
+1998	CHN	5000m Relay Short Track S.	M	Bronze	1
+2002	CHN	1500m Short Track S.	M	Silver	1
+2002	CHN	5000m Relay Short Track S.	M	Bronze	1
+2006	CHN	1500m Short Track S.	M	Bronze	1
+2006	CHN	Aerials Freestyle Ski.	M	Gold	1
+2010	CHN	Aerials Freestyle Ski.	M	Bronze	1
+2006	CRO	Alpine Combined Alpine Skiing	M	Silver	1
+2010	CRO	Alpine Combined Alpine Skiing	M	Silver	1
+2010	CRO	Slalom Alpine Skiing	M	Silver	1
+2010	CRO	10km Biathlon	M	Bronze	1
+1998	CZE	Ice Hockey Ice Hockey	M	Gold	1
+2002	CZE	Aerials Freestyle Ski.	M	Gold	1
+2006	CZE	15km Cross Country S	M	Silver	1
+2006	CZE	Ice Hockey Ice Hockey	M	Bronze	1
+2010	CZE	15km Cross Country S	M	Bronze	1
+2010	CZE	4x10km Relay Cross Country S	M	Bronze	1
+1972	ESP	Slalom Alpine Skiing	M	Gold	1
+2002	EST	15km Cross Country S	M	Gold	1
+2002	EST	15km Cross Country S	M	Bronze	1
+2002	EST	50km Cross Country S	M	Silver	1
+2006	EST	15km Cross Country S	M	Gold	1
+1956	EUA	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1960	EUA	Downhill Alpine Skiing	M	Silver	1
+1960	EUA	Individual Nordic Combined	M	Gold	1
+1960	EUA	K90 Individual (70m) Ski Jumping	M	Gold	1
+1964	EUA	Singles Luge	M	Gold	1
+1964	EUA	Singles Luge	M	Silver	1
+1964	EUA	Singles Luge	M	Bronze	1
+1964	EUA	Individual Figure Skating	M	Gold	1
+1964	EUA	Downhill Alpine Skiing	M	Bronze	1
+1964	EUA	Individual Nordic Combined	M	Bronze	1
+1992	EUN	20km Biathlon	M	Gold	1
+1992	EUN	4x7.5km Relay Biathlon	M	Silver	1
+1992	EUN	Ice Hockey Ice Hockey	M	Gold	1
+1992	EUN	Individual Figure Skating	M	Gold	1
+1924	FIN	Military Patrol Biathlon	M	Silver	1
+1924	FIN	500m Speed Skating	M	Bronze	1
+1924	FIN	1500m Speed Skating	M	Gold	1
+1924	FIN	5000m Speed Skating	M	Gold	1
+1924	FIN	5000m Speed Skating	M	Silver	1
+1924	FIN	10000m Speed Skating	M	Gold	1
+1924	FIN	10000m Speed Skating	M	Silver	1
+1924	FIN	Combined (4 Events) Speed Skating	M	Gold	1
+1924	FIN	Combined (4 Events) Speed Skating	M	Bronze	1
+1924	FIN	18km Cross Country S	M	Bronze	1
+1928	FIN	500m Speed Skating	M	Gold	1
+1928	FIN	500m Speed Skating	M	Bronze	1
+1928	FIN	1500m Speed Skating	M	Gold	1
+1928	FIN	5000m Speed Skating	M	Silver	1
+1932	FIN	18km Cross Country S	M	Bronze	1
+1932	FIN	50km Cross Country S	M	Gold	1
+1932	FIN	50km Cross Country S	M	Silver	1
+1936	FIN	1500m Speed Skating	M	Bronze	1
+1936	FIN	5000m Speed Skating	M	Silver	1
+1936	FIN	5000m Speed Skating	M	Bronze	1
+1936	FIN	10000m Speed Skating	M	Silver	1
+1936	FIN	18km Cross Country S	M	Bronze	1
+1936	FIN	4x10km Relay Cross Country S	M	Gold	1
+1948	FIN	10000m Speed Skating	M	Silver	1
+1948	FIN	10000m Speed Skating	M	Bronze	1
+1948	FIN	4x10km Relay Cross Country S	M	Silver	1
+1948	FIN	50km Cross Country S	M	Bronze	1
+1948	FIN	Individual Nordic Combined	M	Gold	1
+1948	FIN	Individual Nordic Combined	M	Silver	1
+1952	FIN	18km Cross Country S	M	Silver	1
+1952	FIN	18km Cross Country S	M	Bronze	1
+1952	FIN	4x10km Relay Cross Country S	M	Gold	1
+1952	FIN	50km Cross Country S	M	Gold	1
+1952	FIN	50km Cross Country S	M	Silver	1
+1952	FIN	Individual Nordic Combined	M	Silver	1
+1956	FIN	1500m Speed Skating	M	Bronze	1
+1956	FIN	30km Mass Start Cross Country S	M	Gold	1
+1956	FIN	4x10km Relay Cross Country S	M	Silver	1
+1956	FIN	50km Cross Country S	M	Silver	1
+1956	FIN	K90 Individual (70m) Ski Jumping	M	Gold	1
+1956	FIN	K90 Individual (70m) Ski Jumping	M	Silver	1
+1960	FIN	20km Biathlon	M	Silver	1
+1960	FIN	15km Cross Country S	M	Bronze	1
+1960	FIN	4x10km Relay Cross Country S	M	Gold	1
+1960	FIN	50km Cross Country S	M	Gold	1
+1960	FIN	50km Cross Country S	M	Silver	1
+1960	FIN	K90 Individual (70m) Ski Jumping	M	Silver	1
+1964	FIN	15km Cross Country S	M	Gold	1
+1964	FIN	30km Mass Start Cross Country S	M	Gold	1
+1964	FIN	K90 Individual (70m) Ski Jumping	M	Gold	1
+1964	FIN	4x10km Relay Cross Country S	M	Silver	1
+1964	FIN	K120 Individual (90m) Ski Jumping	M	Silver	1
+1964	FIN	50km Cross Country S	M	Bronze	1
+1968	FIN	15km Cross Country S	M	Silver	1
+1968	FIN	30km Mass Start Cross Country S	M	Bronze	1
+1968	FIN	4x10km Relay Cross Country S	M	Bronze	1
+1972	FIN	4x7.5km Relay Biathlon	M	Silver	1
+1972	FIN	Individual Nordic Combined	M	Silver	1
+1976	FIN	20km Biathlon	M	Silver	1
+1976	FIN	4x7.5km Relay Biathlon	M	Silver	1
+1976	FIN	15km Cross Country S	M	Bronze	1
+1976	FIN	4x10km Relay Cross Country S	M	Gold	1
+1980	FIN	15km Cross Country S	M	Silver	1
+1980	FIN	4x10km Relay Cross Country S	M	Bronze	1
+1980	FIN	50km Cross Country S	M	Silver	1
+1980	FIN	Individual Nordic Combined	M	Silver	1
+1980	FIN	K120 Individual (90m) Ski Jumping	M	Gold	1
+1980	FIN	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1984	FIN	15km Cross Country S	M	Silver	1
+1984	FIN	15km Cross Country S	M	Bronze	1
+1984	FIN	4x10km Relay Cross Country S	M	Bronze	1
+1984	FIN	50km Cross Country S	M	Bronze	1
+1984	FIN	Individual Nordic Combined	M	Silver	1
+1984	FIN	Individual Nordic Combined	M	Bronze	1
+1984	FIN	K120 Individual (90m) Ski Jumping	M	Gold	1
+1984	FIN	K90 Individual (70m) Ski Jumping	M	Silver	1
+1984	FIN	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1988	FIN	Ice Hockey Ice Hockey	M	Silver	1
+1988	FIN	K120 Individual (90m) Ski Jumping	M	Gold	1
+1988	FIN	K120 Team (90m) Ski Jumping	M	Gold	1
+1988	FIN	K90 Individual (70m) Ski Jumping	M	Gold	1
+1992	FIN	K120 Individual (90m) Ski Jumping	M	Gold	1
+1992	FIN	K120 Team (90m) Ski Jumping	M	Gold	1
+1992	FIN	10km Biathlon	M	Bronze	1
+1992	FIN	4x10km Relay Cross Country S	M	Bronze	1
+1992	FIN	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1994	FIN	Ice Hockey Ice Hockey	M	Bronze	1
+1994	FIN	30km Mass Start Cross Country S	M	Bronze	1
+1994	FIN	4x10km Relay Cross Country S	M	Bronze	1
+1994	FIN	50km Cross Country S	M	Silver	1
+1998	FIN	30km Mass Start Cross Country S	M	Gold	1
+1998	FIN	K90 Individual (70m) Ski Jumping	M	Gold	1
+1998	FIN	Moguls Freestyle Ski.	M	Silver	1
+1998	FIN	Individual Nordic Combined	M	Silver	1
+1998	FIN	Team Nordic Combined	M	Silver	1
+1998	FIN	K120 Individual (90m) Ski Jumping	M	Silver	1
+1998	FIN	10km Biathlon	M	Bronze	1
+1998	FIN	Ice Hockey Ice Hockey	M	Bronze	1
+1998	FIN	10km Pursuit Cross Country S	M	Bronze	1
+1998	FIN	4x10km Relay Cross Country S	M	Bronze	1
+1998	FIN	Moguls Freestyle Ski.	M	Bronze	1
+2002	FIN	Moguls Freestyle Ski.	M	Gold	1
+2002	FIN	Individual Nordic Combined	M	Gold	1
+2002	FIN	Sprint Nordic Combined	M	Gold	1
+2002	FIN	Team Nordic Combined	M	Gold	1
+2002	FIN	Individual Nordic Combined	M	Silver	1
+2002	FIN	K120 Team (90m) Ski Jumping	M	Silver	1
+2002	FIN	K120 Individual (90m) Ski Jumping	M	Bronze	1
+2006	FIN	Curling Curling	M	Silver	1
+2006	FIN	Ice Hockey Ice Hockey	M	Silver	1
+2006	FIN	Moguls Freestyle Ski.	M	Silver	1
+2006	FIN	K120 Team (90m) Ski Jumping	M	Silver	1
+2006	FIN	K90 Individual (70m) Ski Jumping	M	Silver	1
+2006	FIN	Team Nordic Combined	M	Bronze	1
+2006	FIN	Half-pipe Snowboard	M	Bronze	1
+2010	FIN	Ice Hockey Ice Hockey	M	Bronze	1
+2010	FIN	Half-pipe Snowboard	M	Silver	1
+1948	FRA	Alpine Combined Alpine Skiing	M	Gold	1
+1948	FRA	Downhill Alpine Skiing	M	Gold	1
+1960	FRA	Downhill Alpine Skiing	M	Gold	1
+1964	FRA	Giant Slalom Alpine Skiing	M	Gold	1
+1968	FRA	Downhill Alpine Skiing	M	Gold	1
+1968	FRA	Giant Slalom Alpine Skiing	M	Gold	1
+1968	FRA	Slalom Alpine Skiing	M	Gold	1
+1988	FRA	Super-g Alpine Skiing	M	Gold	1
+1992	FRA	Moguls Freestyle Ski.	M	Gold	1
+1992	FRA	Individual Nordic Combined	M	Gold	1
+1998	FRA	Downhill Alpine Skiing	M	Gold	1
+2002	FRA	Slalom Alpine Skiing	M	Gold	1
+2006	FRA	12.5km Pursuit Biathlon	M	Gold	1
+2006	FRA	Downhill Alpine Skiing	M	Gold	1
+2010	FRA	10km Biathlon	M	Gold	1
+2010	FRA	Individual Nordic Combined	M	Gold	1
+1948	FRA	Slalom Alpine Skiing	M	Silver	1
+1964	FRA	Individual Figure Skating	M	Silver	1
+1964	FRA	Downhill Alpine Skiing	M	Silver	1
+1968	FRA	Downhill Alpine Skiing	M	Silver	1
+1992	FRA	Downhill Alpine Skiing	M	Silver	1
+1992	FRA	Moguls Freestyle Ski.	M	Silver	1
+1992	FRA	Individual Nordic Combined	M	Silver	1
+1998	FRA	Aerials Freestyle Ski.	M	Silver	1
+2002	FRA	12.5km Pursuit Biathlon	M	Silver	1
+2002	FRA	Slalom Alpine Skiing	M	Silver	1
+2006	FRA	Giant Slalom Alpine Skiing	M	Silver	1
+2006	FRA	Sprint 1,5km Cross Country S	M	Silver	1
+2010	FRA	15km Mass Start Biathlon	M	Silver	1
+1924	FRA	Military Patrol Biathlon	M	Bronze	1
+1924	FRA	Curling Curling	M	Bronze	1
+1936	FRA	Alpine Combined Alpine Skiing	M	Bronze	1
+1948	FRA	Alpine Combined Alpine Skiing	M	Bronze	1
+1948	FRA	Slalom Alpine Skiing	M	Bronze	1
+1960	FRA	Downhill Alpine Skiing	M	Bronze	1
+1960	FRA	Slalom Alpine Skiing	M	Bronze	1
+1968	FRA	Individual Figure Skating	M	Bronze	1
+1972	FRA	Individual Figure Skating	M	Bronze	1
+1984	FRA	Slalom Alpine Skiing	M	Bronze	1
+1988	FRA	Downhill Alpine Skiing	M	Bronze	1
+1994	FRA	4x7.5km Relay Biathlon	M	Bronze	1
+1994	FRA	Individual Figure Skating	M	Bronze	1
+1994	FRA	Moguls Freestyle Ski.	M	Bronze	1
+1998	FRA	Four-man Bobsleigh	M	Bronze	1
+1998	FRA	Individual Figure Skating	M	Bronze	1
+1998	FRA	Team Nordic Combined	M	Bronze	1
+2002	FRA	4x7.5km Relay Biathlon	M	Bronze	1
+2002	FRA	Moguls Freestyle Ski.	M	Bronze	1
+2006	FRA	4x7.5km Relay Biathlon	M	Bronze	1
+2006	FRA	Snowboard Cross Snowboard	M	Bronze	1
+2010	FRA	12.5km Pursuit Biathlon	M	Bronze	1
+2010	FRA	Giant Parallel Slalom Snowboard	M	Bronze	1
+2010	FRA	Snowboard Cross Snowboard	M	Bronze	1
+1952	FRG	Two-man Bobsleigh	M	Gold	1
+1952	FRG	Four-man Bobsleigh	M	Gold	1
+1968	FRG	Two-man Bobsleigh	M	Silver	1
+1968	FRG	500m Speed Skating	M	Gold	1
+1968	FRG	Individual Nordic Combined	M	Gold	1
+1972	FRG	Two-man Bobsleigh	M	Gold	1
+1972	FRG	Two-man Bobsleigh	M	Silver	1
+1972	FRG	Four-man Bobsleigh	M	Bronze	1
+1972	FRG	500m Speed Skating	M	Gold	1
+1976	FRG	Two-man Bobsleigh	M	Silver	1
+1976	FRG	Four-man Bobsleigh	M	Bronze	1
+1976	FRG	Ice Hockey Ice Hockey	M	Bronze	1
+1976	FRG	Singles Luge	M	Silver	1
+1976	FRG	Individual Nordic Combined	M	Silver	1
+1980	FRG	4x7.5km Relay Biathlon	M	Bronze	1
+1980	FRG	Singles Luge	M	Bronze	1
+1984	FRG	10km Biathlon	M	Silver	1
+1984	FRG	20km Biathlon	M	Gold	1
+1984	FRG	4x7.5km Relay Biathlon	M	Bronze	1
+1988	FRG	4x7.5km Relay Biathlon	M	Silver	1
+1988	FRG	Singles Luge	M	Silver	1
+1988	FRG	Slalom Alpine Skiing	M	Silver	1
+1988	FRG	Team Nordic Combined	M	Gold	1
+1924	GBR	Four-man Bobsleigh	M	Silver	1
+1924	GBR	Curling Curling	M	Gold	1
+1924	GBR	Ice Hockey Ice Hockey	M	Bronze	1
+1928	GBR	Individual Skeleton	M	Bronze	1
+1936	GBR	Four-man Bobsleigh	M	Bronze	1
+1936	GBR	Ice Hockey Ice Hockey	M	Gold	1
+1948	GBR	Individual Skeleton	M	Bronze	1
+1964	GBR	Two-man Bobsleigh	M	Gold	1
+1976	GBR	Individual Figure Skating	M	Gold	1
+1980	GBR	Individual Figure Skating	M	Gold	1
+1994	GBR	500m Short Track S.	M	Bronze	1
+1998	GBR	Four-man Bobsleigh	M	Bronze	1
+1968	GDR	Singles Luge	M	Silver	1
+1968	GDR	Singles Luge	M	Bronze	1
+1968	GDR	Individual Nordic Combined	M	Bronze	1
+1972	GDR	20km Biathlon	M	Silver	1
+1972	GDR	4x7.5km Relay Biathlon	M	Bronze	1
+1972	GDR	Singles Luge	M	Gold	1
+1972	GDR	Singles Luge	M	Silver	1
+1972	GDR	Singles Luge	M	Bronze	1
+1972	GDR	Individual Nordic Combined	M	Gold	1
+1972	GDR	Individual Nordic Combined	M	Bronze	1
+1972	GDR	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1976	GDR	4x7.5km Relay Biathlon	M	Bronze	1
+1976	GDR	Two-man Bobsleigh	M	Gold	1
+1976	GDR	Four-man Bobsleigh	M	Gold	1
+1976	GDR	Singles Luge	M	Gold	1
+1976	GDR	Singles Luge	M	Bronze	1
+1976	GDR	50km Cross Country S	M	Silver	1
+1976	GDR	Individual Nordic Combined	M	Gold	1
+1976	GDR	Individual Nordic Combined	M	Bronze	1
+1976	GDR	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1976	GDR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1976	GDR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1980	GDR	10km Biathlon	M	Gold	1
+1980	GDR	20km Biathlon	M	Silver	1
+1980	GDR	20km Biathlon	M	Bronze	1
+1980	GDR	4x7.5km Relay Biathlon	M	Silver	1
+1980	GDR	Two-man Bobsleigh	M	Silver	1
+1980	GDR	Two-man Bobsleigh	M	Bronze	1
+1980	GDR	Four-man Bobsleigh	M	Gold	1
+1980	GDR	Four-man Bobsleigh	M	Bronze	1
+1980	GDR	Singles Luge	M	Gold	1
+1980	GDR	Individual Figure Skating	M	Silver	1
+1980	GDR	Individual Nordic Combined	M	Gold	1
+1980	GDR	Individual Nordic Combined	M	Bronze	1
+1980	GDR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1984	GDR	10km Biathlon	M	Bronze	1
+1984	GDR	20km Biathlon	M	Silver	1
+1984	GDR	Two-man Bobsleigh	M	Gold	1
+1984	GDR	Two-man Bobsleigh	M	Silver	1
+1984	GDR	Four-man Bobsleigh	M	Gold	1
+1984	GDR	Four-man Bobsleigh	M	Silver	1
+1984	GDR	5000m Speed Skating	M	Bronze	1
+1984	GDR	10000m Speed Skating	M	Bronze	1
+1984	GDR	K120 Individual (90m) Ski Jumping	M	Silver	1
+1984	GDR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1988	GDR	10km Biathlon	M	Gold	1
+1988	GDR	20km Biathlon	M	Gold	1
+1988	GDR	Singles Luge	M	Gold	1
+1988	GDR	500m Speed Skating	M	Gold	1
+1988	GDR	1500m Speed Skating	M	Gold	1
+1988	GDR	Two-man Bobsleigh	M	Silver	1
+1988	GDR	Four-man Bobsleigh	M	Silver	1
+1988	GDR	1000m Speed Skating	M	Silver	1
+1988	GDR	Two-man Bobsleigh	M	Bronze	1
+1992	GER	10km Biathlon	M	Gold	1
+2006	GER	10km Biathlon	M	Gold	1
+2006	GER	15km Mass Start Biathlon	M	Gold	1
+2006	GER	20km Biathlon	M	Gold	1
+1992	GER	4x7.5km Relay Biathlon	M	Gold	1
+1994	GER	4x7.5km Relay Biathlon	M	Gold	1
+1998	GER	4x7.5km Relay Biathlon	M	Gold	1
+2006	GER	4x7.5km Relay Biathlon	M	Gold	1
+2002	GER	Two-man Bobsleigh	M	Gold	1
+2006	GER	Two-man Bobsleigh	M	Gold	1
+2010	GER	Two-man Bobsleigh	M	Gold	1
+1994	GER	Four-man Bobsleigh	M	Gold	1
+1998	GER	Four-man Bobsleigh	M	Gold	1
+2002	GER	Four-man Bobsleigh	M	Gold	1
+2006	GER	Four-man Bobsleigh	M	Gold	1
+1992	GER	Singles Luge	M	Gold	1
+1994	GER	Singles Luge	M	Gold	1
+1998	GER	Singles Luge	M	Gold	1
+2010	GER	Singles Luge	M	Gold	1
+1992	GER	500m Speed Skating	M	Gold	1
+1992	GER	1000m Speed Skating	M	Gold	1
+1936	GER	Alpine Combined Alpine Skiing	M	Gold	1
+1994	GER	Giant Slalom Alpine Skiing	M	Gold	1
+1994	GER	Super-g Alpine Skiing	M	Gold	1
+2006	GER	Individual Nordic Combined	M	Gold	1
+1994	GER	K120 Individual (90m) Ski Jumping	M	Gold	1
+1994	GER	K120 Team (90m) Ski Jumping	M	Gold	1
+2002	GER	K120 Team (90m) Ski Jumping	M	Gold	1
+1936	GER	Individual Figure Skating	M	Silver	1
+1936	GER	Alpine Combined Alpine Skiing	M	Silver	1
+1992	GER	10km Biathlon	M	Silver	1
+1992	GER	20km Biathlon	M	Silver	1
+1992	GER	Two-man Bobsleigh	M	Silver	1
+1992	GER	Four-man Bobsleigh	M	Silver	1
+1994	GER	10km Biathlon	M	Silver	1
+1994	GER	20km Biathlon	M	Silver	1
+1998	GER	K120 Team (90m) Ski Jumping	M	Silver	1
+2002	GER	10km Biathlon	M	Silver	1
+2002	GER	20km Biathlon	M	Silver	1
+2002	GER	4x7.5km Relay Biathlon	M	Silver	1
+2002	GER	Singles Luge	M	Silver	1
+2002	GER	Sprint 1,5km Cross Country S	M	Silver	1
+2002	GER	Sprint Nordic Combined	M	Silver	1
+2002	GER	Team Nordic Combined	M	Silver	1
+2002	GER	K90 Individual (70m) Ski Jumping	M	Silver	1
+2006	GER	4x10km Relay Cross Country S	M	Silver	1
+2006	GER	Team Nordic Combined	M	Silver	1
+2010	GER	Two-man Bobsleigh	M	Silver	1
+2010	GER	Four-man Bobsleigh	M	Silver	1
+2010	GER	Singles Luge	M	Silver	1
+2010	GER	30km Cross Country S	M	Silver	1
+2010	GER	50km Cross Country S	M	Silver	1
+2010	GER	Team Sprint Cross Country S	M	Silver	1
+2010	GER	K120 Team (90m) Ski Jumping	M	Silver	1
+2002	GER	12.5km Pursuit Biathlon	M	Bronze	1
+2006	GER	12.5km Pursuit Biathlon	M	Bronze	1
+1994	GER	20km Biathlon	M	Bronze	1
+1992	GER	Two-man Bobsleigh	M	Bronze	1
+1998	GER	Two-man Bobsleigh	M	Bronze	1
+1932	GER	Four-man Bobsleigh	M	Bronze	1
+1994	GER	Four-man Bobsleigh	M	Bronze	1
+1928	GER	Five-man Bobsleigh	M	Bronze	1
+1932	GER	Ice Hockey Ice Hockey	M	Bronze	1
+1998	GER	Singles Luge	M	Bronze	1
+2002	GER	5000m Speed Skating	M	Bronze	1
+2006	GER	15km Cross Country S	M	Bronze	1
+2002	GER	4x10km Relay Cross Country S	M	Bronze	1
+2006	GER	Individual Sprint Nordic Combined	M	Bronze	1
+2010	GER	Team Nordic Combined	M	Bronze	1
+1994	GER	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1956	ITA	Two-man Bobsleigh	M	Gold	1
+1968	ITA	Two-man Bobsleigh	M	Gold	1
+1998	ITA	Two-man Bobsleigh	M	Gold	1
+1968	ITA	Four-man Bobsleigh	M	Gold	1
+1948	ITA	Individual Skeleton	M	Gold	1
+1984	ITA	Singles Luge	M	Gold	1
+2002	ITA	Singles Luge	M	Gold	1
+2006	ITA	Singles Luge	M	Gold	1
+1994	ITA	5000m Relay Short Track S.	M	Gold	1
+2006	ITA	1500m Speed Skating	M	Gold	1
+2006	ITA	Team Pursuit Speed Skating	M	Gold	1
+1992	ITA	Alpine Combined Alpine Skiing	M	Gold	1
+1952	ITA	Downhill Alpine Skiing	M	Gold	1
+1972	ITA	Giant Slalom Alpine Skiing	M	Gold	1
+1988	ITA	Giant Slalom Alpine Skiing	M	Gold	1
+1992	ITA	Giant Slalom Alpine Skiing	M	Gold	1
+1976	ITA	Slalom Alpine Skiing	M	Gold	1
+1988	ITA	Slalom Alpine Skiing	M	Gold	1
+2010	ITA	Slalom Alpine Skiing	M	Gold	1
+1968	ITA	30km Mass Start Cross Country S	M	Gold	1
+1994	ITA	4x10km Relay Cross Country S	M	Gold	1
+2006	ITA	4x10km Relay Cross Country S	M	Gold	1
+2006	ITA	50km Cross Country S	M	Gold	1
+1956	ITA	Two-man Bobsleigh	M	Silver	1
+1956	ITA	Four-man Bobsleigh	M	Silver	1
+1964	ITA	Two-man Bobsleigh	M	Silver	1
+1972	ITA	Four-man Bobsleigh	M	Silver	1
+1972	ITA	Slalom Alpine Skiing	M	Silver	1
+1976	ITA	Slalom Alpine Skiing	M	Silver	1
+1980	ITA	Singles Luge	M	Silver	1
+1988	ITA	50km Cross Country S	M	Silver	1
+1992	ITA	Alpine Combined Alpine Skiing	M	Silver	1
+1992	ITA	Slalom Alpine Skiing	M	Silver	1
+1992	ITA	10km Pursuit Cross Country S	M	Silver	1
+1992	ITA	4x10km Relay Cross Country S	M	Silver	1
+1992	ITA	50km Cross Country S	M	Silver	1
+1994	ITA	500m Short Track S.	M	Silver	1
+1994	ITA	Slalom Alpine Skiing	M	Silver	1
+1998	ITA	20km Biathlon	M	Silver	1
+1998	ITA	Singles Luge	M	Silver	1
+1998	ITA	4x10km Relay Cross Country S	M	Silver	1
+1998	ITA	Giant-slalom Snowboard	M	Silver	1
+2002	ITA	5000m Relay Short Track S.	M	Silver	1
+2002	ITA	4x10km Relay Cross Country S	M	Silver	1
+2010	ITA	15km Cross Country S	M	Silver	1
+1964	ITA	Two-man Bobsleigh	M	Bronze	1
+1964	ITA	Four-man Bobsleigh	M	Bronze	1
+1972	ITA	Slalom Alpine Skiing	M	Bronze	1
+1976	ITA	Downhill Alpine Skiing	M	Bronze	1
+1988	ITA	20km Biathlon	M	Bronze	1
+1988	ITA	4x7.5km Relay Biathlon	M	Bronze	1
+1992	ITA	50km Cross Country S	M	Bronze	1
+1992	ITA	Combined 10km + 15km Pursuit Cross Country S	M	Bronze	1
+1994	ITA	Two-man Bobsleigh	M	Bronze	1
+1994	ITA	Singles Luge	M	Bronze	1
+1994	ITA	10km Pursuit Cross Country S	M	Bronze	1
+1994	ITA	Combined 10km + 15km Pursuit Cross Country S	M	Bronze	1
+1998	ITA	30km Mass Start Cross Country S	M	Bronze	1
+2002	ITA	Sprint 1,5km Cross Country S	M	Bronze	1
+2006	ITA	5000m Speed Skating	M	Bronze	1
+2006	ITA	Combined 15 + 15km Mass Start Cross Country S	M	Bronze	1
+2010	ITA	Singles Luge	M	Bronze	1
+2010	ITA	Individual Nordic Combined	M	Bronze	1
+1956	JPN	Slalom Alpine Skiing	M	Silver	1
+1972	JPN	K90 Individual (70m) Ski Jumping	M	Gold	1
+1972	JPN	K90 Individual (70m) Ski Jumping	M	Silver	1
+1972	JPN	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1980	JPN	K90 Individual (70m) Ski Jumping	M	Silver	1
+1984	JPN	500m Speed Skating	M	Silver	1
+1988	JPN	500m Speed Skating	M	Bronze	1
+1992	JPN	5000m Relay Short Track S.	M	Bronze	1
+1992	JPN	500m Speed Skating	M	Silver	1
+1992	JPN	500m Speed Skating	M	Bronze	1
+1992	JPN	1000m Speed Skating	M	Bronze	1
+1992	JPN	Team Nordic Combined	M	Gold	1
+1994	JPN	500m Speed Skating	M	Bronze	1
+1994	JPN	Individual Nordic Combined	M	Silver	1
+1994	JPN	Team Nordic Combined	M	Gold	1
+1994	JPN	K120 Team (90m) Ski Jumping	M	Silver	1
+1998	JPN	500m Short Track S.	M	Gold	1
+1998	JPN	500m Short Track S.	M	Bronze	1
+1998	JPN	500m Speed Skating	M	Gold	1
+1998	JPN	1000m Speed Skating	M	Bronze	1
+1998	JPN	K120 Individual (90m) Ski Jumping	M	Gold	1
+1998	JPN	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1998	JPN	K120 Team (90m) Ski Jumping	M	Gold	1
+1998	JPN	K90 Individual (70m) Ski Jumping	M	Silver	1
+2002	JPN	500m Speed Skating	M	Silver	1
+2010	JPN	Individual Figure Skating	M	Bronze	1
+2010	JPN	500m Speed Skating	M	Silver	1
+2010	JPN	500m Speed Skating	M	Bronze	1
+1994	KAZ	10km Pursuit Cross Country S	M	Silver	1
+1994	KAZ	50km Cross Country S	M	Gold	1
+1994	KAZ	Combined 10km + 15km Pursuit Cross Country S	M	Silver	1
+1998	KAZ	Combined 10km + 15km Pursuit Cross Country S	M	Bronze	1
+1992	KOR	1000m Short Track S.	M	Gold	1
+1992	KOR	1000m Short Track S.	M	Bronze	1
+1992	KOR	5000m Relay Short Track S.	M	Gold	1
+1992	KOR	1000m Speed Skating	M	Silver	1
+1994	KOR	500m Short Track S.	M	Gold	1
+1994	KOR	1000m Short Track S.	M	Gold	1
+1994	KOR	1000m Short Track S.	M	Silver	1
+1998	KOR	1000m Short Track S.	M	Gold	1
+1998	KOR	5000m Relay Short Track S.	M	Silver	1
+2006	KOR	500m Short Track S.	M	Bronze	1
+2006	KOR	1000m Short Track S.	M	Gold	1
+2006	KOR	1000m Short Track S.	M	Silver	1
+2006	KOR	1500m Short Track S.	M	Gold	1
+2006	KOR	1500m Short Track S.	M	Silver	1
+2006	KOR	5000m Relay Short Track S.	M	Gold	1
+2006	KOR	500m Speed Skating	M	Bronze	1
+2010	KOR	1000m Short Track S.	M	Gold	1
+2010	KOR	1500m Short Track S.	M	Gold	1
+2010	KOR	500m Speed Skating	M	Gold	1
+2010	KOR	10000m Speed Skating	M	Gold	1
+2010	KOR	500m Short Track S.	M	Silver	1
+2010	KOR	1000m Short Track S.	M	Silver	1
+2010	KOR	5000m Relay Short Track S.	M	Silver	1
+2010	KOR	1000m Speed Skating	M	Silver	1
+2010	KOR	5000m Speed Skating	M	Silver	1
+2006	LAT	Singles Luge	M	Bronze	1
+2010	LAT	Individual Skeleton	M	Silver	1
+1976	LIE	Slalom Alpine Skiing	M	Bronze	1
+1980	LIE	Giant Slalom Alpine Skiing	M	Silver	1
+1984	LIE	Giant Slalom Alpine Skiing	M	Bronze	1
+1988	LIE	Slalom Alpine Skiing	M	Bronze	1
+1992	LUX	Giant Slalom Alpine Skiing	M	Silver	1
+1992	LUX	Super-g Alpine Skiing	M	Silver	1
+1952	NED	1500m Speed Skating	M	Silver	1
+1952	NED	5000m Speed Skating	M	Silver	1
+1952	NED	10000m Speed Skating	M	Silver	1
+1960	NED	5000m Speed Skating	M	Bronze	1
+1964	NED	1500m Speed Skating	M	Silver	1
+1968	NED	1500m Speed Skating	M	Gold	1
+1968	NED	1500m Speed Skating	M	Silver	1
+1968	NED	5000m Speed Skating	M	Silver	1
+1968	NED	5000m Speed Skating	M	Bronze	1
+1972	NED	1500m Speed Skating	M	Gold	1
+1972	NED	5000m Speed Skating	M	Gold	1
+1972	NED	10000m Speed Skating	M	Gold	1
+1972	NED	10000m Speed Skating	M	Silver	1
+1976	NED	1500m Speed Skating	M	Bronze	1
+1976	NED	5000m Speed Skating	M	Silver	1
+1976	NED	5000m Speed Skating	M	Bronze	1
+1976	NED	10000m Speed Skating	M	Gold	1
+1976	NED	10000m Speed Skating	M	Bronze	1
+1980	NED	500m Speed Skating	M	Bronze	1
+1980	NED	10000m Speed Skating	M	Silver	1
+1988	NED	500m Speed Skating	M	Silver	1
+1988	NED	5000m Speed Skating	M	Silver	1
+1988	NED	5000m Speed Skating	M	Bronze	1
+1988	NED	10000m Speed Skating	M	Bronze	1
+1992	NED	1500m Speed Skating	M	Bronze	1
+1992	NED	5000m Speed Skating	M	Silver	1
+1992	NED	5000m Speed Skating	M	Bronze	1
+1992	NED	10000m Speed Skating	M	Gold	1
+1994	NED	1500m Speed Skating	M	Silver	1
+1994	NED	1500m Speed Skating	M	Bronze	1
+1994	NED	5000m Speed Skating	M	Bronze	1
+1994	NED	10000m Speed Skating	M	Bronze	1
+1998	NED	1000m Speed Skating	M	Gold	1
+1998	NED	1000m Speed Skating	M	Silver	1
+1998	NED	1500m Speed Skating	M	Silver	1
+1998	NED	1500m Speed Skating	M	Bronze	1
+1998	NED	5000m Speed Skating	M	Gold	1
+1998	NED	5000m Speed Skating	M	Silver	1
+1998	NED	10000m Speed Skating	M	Gold	1
+1998	NED	10000m Speed Skating	M	Silver	1
+1998	NED	10000m Speed Skating	M	Bronze	1
+2002	NED	1000m Speed Skating	M	Gold	1
+2002	NED	1000m Speed Skating	M	Silver	1
+2002	NED	1500m Speed Skating	M	Silver	1
+2002	NED	5000m Speed Skating	M	Gold	1
+2002	NED	10000m Speed Skating	M	Gold	1
+2002	NED	10000m Speed Skating	M	Silver	1
+2006	NED	1000m Speed Skating	M	Bronze	1
+2006	NED	5000m Speed Skating	M	Silver	1
+2006	NED	10000m Speed Skating	M	Gold	1
+2006	NED	10000m Speed Skating	M	Bronze	1
+2006	NED	Team Pursuit Speed Skating	M	Bronze	1
+2010	NED	1500m Speed Skating	M	Gold	1
+2010	NED	5000m Speed Skating	M	Gold	1
+2010	NED	10000m Speed Skating	M	Bronze	1
+2010	NED	Team Pursuit Speed Skating	M	Bronze	1
+1924	NOR	18km Cross Country S	M	Gold	1
+1924	NOR	50km Cross Country S	M	Gold	1
+1924	NOR	Individual Nordic Combined	M	Gold	1
+1924	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1924	NOR	500m Speed Skating	M	Silver	1
+1924	NOR	1500m Speed Skating	M	Silver	1
+1924	NOR	Combined (4 Events) Speed Skating	M	Silver	1
+1924	NOR	18km Cross Country S	M	Silver	1
+1924	NOR	50km Cross Country S	M	Silver	1
+1924	NOR	Individual Nordic Combined	M	Silver	1
+1924	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1924	NOR	500m Speed Skating	M	Bronze	1
+1924	NOR	1500m Speed Skating	M	Bronze	1
+1924	NOR	5000m Speed Skating	M	Bronze	1
+1924	NOR	10000m Speed Skating	M	Bronze	1
+1924	NOR	50km Cross Country S	M	Bronze	1
+1924	NOR	Individual Nordic Combined	M	Bronze	1
+1928	NOR	500m Speed Skating	M	Gold	1
+1928	NOR	500m Speed Skating	M	Bronze	1
+1928	NOR	1500m Speed Skating	M	Silver	1
+1928	NOR	1500m Speed Skating	M	Bronze	1
+1928	NOR	5000m Speed Skating	M	Gold	1
+1928	NOR	5000m Speed Skating	M	Bronze	1
+1928	NOR	18km Cross Country S	M	Gold	1
+1928	NOR	18km Cross Country S	M	Silver	1
+1928	NOR	18km Cross Country S	M	Bronze	1
+1928	NOR	Individual Nordic Combined	M	Gold	1
+1928	NOR	Individual Nordic Combined	M	Silver	1
+1928	NOR	Individual Nordic Combined	M	Bronze	1
+1928	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1928	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1932	NOR	Individual Nordic Combined	M	Gold	1
+1932	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1932	NOR	500m Speed Skating	M	Silver	1
+1932	NOR	10000m Speed Skating	M	Silver	1
+1932	NOR	Individual Nordic Combined	M	Silver	1
+1932	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1932	NOR	50km Cross Country S	M	Bronze	1
+1932	NOR	Individual Nordic Combined	M	Bronze	1
+1932	NOR	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1936	NOR	500m Speed Skating	M	Gold	1
+1936	NOR	1500m Speed Skating	M	Gold	1
+1936	NOR	5000m Speed Skating	M	Gold	1
+1936	NOR	10000m Speed Skating	M	Gold	1
+1936	NOR	Individual Nordic Combined	M	Gold	1
+1936	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1936	NOR	500m Speed Skating	M	Silver	1
+1936	NOR	1500m Speed Skating	M	Silver	1
+1936	NOR	18km Cross Country S	M	Silver	1
+1936	NOR	4x10km Relay Cross Country S	M	Silver	1
+1936	NOR	Individual Nordic Combined	M	Silver	1
+1936	NOR	Individual Nordic Combined	M	Bronze	1
+1936	NOR	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1948	NOR	500m Speed Skating	M	Gold	1
+1948	NOR	500m Speed Skating	M	Silver	1
+1948	NOR	1500m Speed Skating	M	Gold	1
+1948	NOR	1500m Speed Skating	M	Bronze	1
+1948	NOR	5000m Speed Skating	M	Gold	1
+1948	NOR	5000m Speed Skating	M	Silver	1
+1948	NOR	4x10km Relay Cross Country S	M	Bronze	1
+1948	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1948	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1948	NOR	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1952	NOR	500m Speed Skating	M	Bronze	1
+1952	NOR	1500m Speed Skating	M	Gold	1
+1952	NOR	1500m Speed Skating	M	Bronze	1
+1952	NOR	5000m Speed Skating	M	Gold	1
+1952	NOR	5000m Speed Skating	M	Bronze	1
+1952	NOR	10000m Speed Skating	M	Gold	1
+1952	NOR	Giant Slalom Alpine Skiing	M	Gold	1
+1952	NOR	Slalom Alpine Skiing	M	Silver	1
+1952	NOR	Slalom Alpine Skiing	M	Bronze	1
+1952	NOR	18km Cross Country S	M	Gold	1
+1952	NOR	4x10km Relay Cross Country S	M	Silver	1
+1952	NOR	50km Cross Country S	M	Bronze	1
+1952	NOR	Individual Nordic Combined	M	Gold	1
+1952	NOR	Individual Nordic Combined	M	Bronze	1
+1952	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1952	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1956	NOR	500m Speed Skating	M	Bronze	1
+1956	NOR	10000m Speed Skating	M	Silver	1
+1956	NOR	15km Cross Country S	M	Gold	1
+1956	NOR	Individual Nordic Combined	M	Gold	1
+1960	NOR	1500m Speed Skating	M	Gold	1
+1960	NOR	10000m Speed Skating	M	Gold	1
+1960	NOR	15km Cross Country S	M	Gold	1
+1960	NOR	5000m Speed Skating	M	Silver	1
+1960	NOR	4x10km Relay Cross Country S	M	Silver	1
+1960	NOR	Individual Nordic Combined	M	Silver	1
+1964	NOR	5000m Speed Skating	M	Gold	1
+1964	NOR	Individual Nordic Combined	M	Gold	1
+1964	NOR	K120 Individual (90m) Ski Jumping	M	Gold	1
+1964	NOR	500m Speed Skating	M	Silver	1
+1964	NOR	5000m Speed Skating	M	Silver	1
+1964	NOR	10000m Speed Skating	M	Silver	1
+1964	NOR	15km Cross Country S	M	Silver	1
+1964	NOR	30km Mass Start Cross Country S	M	Silver	1
+1964	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1964	NOR	20km Biathlon	M	Bronze	1
+1964	NOR	1500m Speed Skating	M	Bronze	1
+1964	NOR	5000m Speed Skating	M	Bronze	1
+1964	NOR	10000m Speed Skating	M	Bronze	1
+1964	NOR	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1964	NOR	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1968	NOR	20km Biathlon	M	Gold	1
+1968	NOR	4x7.5km Relay Biathlon	M	Silver	1
+1968	NOR	500m Speed Skating	M	Silver	1
+1968	NOR	1500m Speed Skating	M	Silver	1
+1968	NOR	5000m Speed Skating	M	Gold	1
+1968	NOR	10000m Speed Skating	M	Silver	1
+1968	NOR	15km Cross Country S	M	Gold	1
+1968	NOR	30km Mass Start Cross Country S	M	Silver	1
+1968	NOR	4x10km Relay Cross Country S	M	Gold	1
+1968	NOR	50km Cross Country S	M	Gold	1
+1968	NOR	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1972	NOR	20km Biathlon	M	Gold	1
+1972	NOR	1500m Speed Skating	M	Silver	1
+1972	NOR	5000m Speed Skating	M	Silver	1
+1972	NOR	5000m Speed Skating	M	Bronze	1
+1972	NOR	10000m Speed Skating	M	Bronze	1
+1972	NOR	15km Cross Country S	M	Bronze	1
+1972	NOR	30km Mass Start Cross Country S	M	Silver	1
+1972	NOR	30km Mass Start Cross Country S	M	Bronze	1
+1972	NOR	4x10km Relay Cross Country S	M	Silver	1
+1972	NOR	50km Cross Country S	M	Gold	1
+1972	NOR	50km Cross Country S	M	Silver	1
+1976	NOR	1500m Speed Skating	M	Gold	1
+1976	NOR	5000m Speed Skating	M	Gold	1
+1976	NOR	50km Cross Country S	M	Gold	1
+1976	NOR	1000m Speed Skating	M	Silver	1
+1976	NOR	10000m Speed Skating	M	Silver	1
+1976	NOR	4x10km Relay Cross Country S	M	Silver	1
+1980	NOR	1500m Speed Skating	M	Silver	1
+1980	NOR	5000m Speed Skating	M	Silver	1
+1980	NOR	4x10km Relay Cross Country S	M	Silver	1
+1980	NOR	1000m Speed Skating	M	Bronze	1
+1980	NOR	1500m Speed Skating	M	Bronze	1
+1980	NOR	5000m Speed Skating	M	Bronze	1
+1980	NOR	10000m Speed Skating	M	Bronze	1
+1980	NOR	15km Cross Country S	M	Bronze	1
+1984	NOR	10km Biathlon	M	Gold	1
+1984	NOR	20km Biathlon	M	Bronze	1
+1984	NOR	4x7.5km Relay Biathlon	M	Silver	1
+1984	NOR	1000m Speed Skating	M	Bronze	1
+1984	NOR	Individual Nordic Combined	M	Gold	1
+1988	NOR	15km Cross Country S	M	Silver	1
+1988	NOR	30km Mass Start Cross Country S	M	Bronze	1
+1988	NOR	K120 Individual (90m) Ski Jumping	M	Silver	1
+1988	NOR	K120 Team (90m) Ski Jumping	M	Bronze	1
+1992	NOR	1500m Speed Skating	M	Gold	1
+1992	NOR	1500m Speed Skating	M	Silver	1
+1992	NOR	5000m Speed Skating	M	Gold	1
+1992	NOR	10000m Speed Skating	M	Silver	1
+1992	NOR	10000m Speed Skating	M	Bronze	1
+1992	NOR	Giant Slalom Alpine Skiing	M	Bronze	1
+1992	NOR	Slalom Alpine Skiing	M	Gold	1
+1992	NOR	Super-g Alpine Skiing	M	Gold	1
+1992	NOR	Super-g Alpine Skiing	M	Bronze	1
+1992	NOR	10km Pursuit Cross Country S	M	Gold	1
+1992	NOR	30km Mass Start Cross Country S	M	Gold	1
+1992	NOR	30km Mass Start Cross Country S	M	Silver	1
+1992	NOR	30km Mass Start Cross Country S	M	Bronze	1
+1992	NOR	4x10km Relay Cross Country S	M	Gold	1
+1992	NOR	50km Cross Country S	M	Gold	1
+1992	NOR	Combined 10km + 15km Pursuit Cross Country S	M	Gold	1
+1992	NOR	Combined 10km + 15km Pursuit Cross Country S	M	Silver	1
+1992	NOR	Team Nordic Combined	M	Silver	1
+1994	NOR	1500m Speed Skating	M	Gold	1
+1994	NOR	5000m Speed Skating	M	Gold	1
+1994	NOR	10000m Speed Skating	M	Gold	1
+1994	NOR	Alpine Combined Alpine Skiing	M	Gold	1
+1994	NOR	10km Pursuit Cross Country S	M	Gold	1
+1994	NOR	30km Mass Start Cross Country S	M	Gold	1
+1994	NOR	Combined 10km + 15km Pursuit Cross Country S	M	Gold	1
+1994	NOR	Individual Nordic Combined	M	Gold	1
+1994	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+1994	NOR	5000m Speed Skating	M	Silver	1
+1994	NOR	10000m Speed Skating	M	Silver	1
+1994	NOR	Alpine Combined Alpine Skiing	M	Silver	1
+1994	NOR	Downhill Alpine Skiing	M	Silver	1
+1994	NOR	30km Mass Start Cross Country S	M	Silver	1
+1994	NOR	4x10km Relay Cross Country S	M	Silver	1
+1994	NOR	Team Nordic Combined	M	Silver	1
+1994	NOR	K120 Individual (90m) Ski Jumping	M	Silver	1
+1994	NOR	K90 Individual (70m) Ski Jumping	M	Silver	1
+1994	NOR	Alpine Combined Alpine Skiing	M	Bronze	1
+1994	NOR	Super-g Alpine Skiing	M	Bronze	1
+1994	NOR	50km Cross Country S	M	Bronze	1
+1994	NOR	Individual Nordic Combined	M	Bronze	1
+1998	NOR	10km Biathlon	M	Gold	1
+1998	NOR	10km Biathlon	M	Silver	1
+1998	NOR	20km Biathlon	M	Gold	1
+1998	NOR	4x7.5km Relay Biathlon	M	Silver	1
+1998	NOR	Curling Curling	M	Bronze	1
+1998	NOR	1500m Speed Skating	M	Gold	1
+1998	NOR	Alpine Combined Alpine Skiing	M	Silver	1
+1998	NOR	Downhill Alpine Skiing	M	Silver	1
+1998	NOR	Slalom Alpine Skiing	M	Gold	1
+1998	NOR	Slalom Alpine Skiing	M	Silver	1
+1998	NOR	10km Pursuit Cross Country S	M	Gold	1
+1998	NOR	30km Mass Start Cross Country S	M	Silver	1
+1998	NOR	4x10km Relay Cross Country S	M	Gold	1
+1998	NOR	50km Cross Country S	M	Gold	1
+1998	NOR	Combined 10km + 15km Pursuit Cross Country S	M	Gold	1
+1998	NOR	Combined 10km + 15km Pursuit Cross Country S	M	Silver	1
+1998	NOR	Individual Nordic Combined	M	Gold	1
+1998	NOR	Team Nordic Combined	M	Gold	1
+1998	NOR	Half-pipe Snowboard	M	Silver	1
+2002	NOR	10km Biathlon	M	Gold	1
+2002	NOR	12.5km Pursuit Biathlon	M	Gold	1
+2002	NOR	20km Biathlon	M	Gold	1
+2002	NOR	4x7.5km Relay Biathlon	M	Gold	1
+2002	NOR	Curling Curling	M	Gold	1
+2002	NOR	Alpine Combined Alpine Skiing	M	Gold	1
+2002	NOR	Super-g Alpine Skiing	M	Gold	1
+2002	NOR	10km Pursuit Cross Country S	M	Gold	1
+2002	NOR	4x10km Relay Cross Country S	M	Gold	1
+2002	NOR	Sprint 1,5km Cross Country S	M	Gold	1
+2002	NOR	Downhill Alpine Skiing	M	Silver	1
+2002	NOR	15km Cross Country S	M	Silver	1
+2002	NOR	1500m Speed Skating	M	Bronze	1
+2002	NOR	10000m Speed Skating	M	Bronze	1
+2002	NOR	Giant Slalom Alpine Skiing	M	Bronze	1
+2002	NOR	30km Mass Start Cross Country S	M	Bronze	1
+2002	NOR	50km Cross Country S	M	Bronze	1
+2006	NOR	10km Biathlon	M	Silver	1
+2006	NOR	10km Biathlon	M	Bronze	1
+2006	NOR	12.5km Pursuit Biathlon	M	Silver	1
+2006	NOR	15km Mass Start Biathlon	M	Bronze	1
+2006	NOR	20km Biathlon	M	Silver	1
+2006	NOR	20km Biathlon	M	Bronze	1
+2006	NOR	Super-g Alpine Skiing	M	Gold	1
+2006	NOR	Combined 15 + 15km Mass Start Cross Country S	M	Silver	1
+2006	NOR	Team Sprint Cross Country S	M	Silver	1
+2006	NOR	Individual Nordic Combined	M	Bronze	1
+2006	NOR	Individual Sprint Nordic Combined	M	Silver	1
+2006	NOR	K120 Individual (90m) Ski Jumping	M	Bronze	1
+2006	NOR	K120 Team (90m) Ski Jumping	M	Bronze	1
+2006	NOR	K90 Individual (70m) Ski Jumping	M	Gold	1
+2006	NOR	K90 Individual (70m) Ski Jumping	M	Bronze	1
+2010	NOR	20km Biathlon	M	Gold	1
+2010	NOR	4x7.5km Relay Biathlon	M	Gold	1
+2010	NOR	Super-g Alpine Skiing	M	Gold	1
+2010	NOR	50km Cross Country S	M	Gold	1
+2010	NOR	Team Sprint Cross Country S	M	Gold	1
+2010	NOR	10km Biathlon	M	Silver	1
+2010	NOR	20km Biathlon	M	Silver	1
+2010	NOR	Curling Curling	M	Silver	1
+2010	NOR	Downhill Alpine Skiing	M	Silver	1
+2010	NOR	Giant Slalom Alpine Skiing	M	Silver	1
+2010	NOR	4x10km Relay Cross Country S	M	Silver	1
+2010	NOR	1500m Speed Skating	M	Bronze	1
+2010	NOR	Giant Slalom Alpine Skiing	M	Bronze	1
+2010	NOR	Sprint 1.5km Cross Country S	M	Bronze	1
+2010	NOR	Ski Cross	M	Bronze	1
+2010	NOR	K120 Team (90m) Ski Jumping	M	Bronze	1
+1956	POL	Individual Nordic Combined	M	Bronze	1
+1972	POL	K120 Individual (90m) Ski Jumping	M	Gold	1
+2002	POL	K120 Individual (90m) Ski Jumping	M	Silver	1
+2002	POL	K90 Individual (70m) Ski Jumping	M	Bronze	1
+2006	POL	15km Mass Start Biathlon	M	Silver	1
+2010	POL	K120 Individual (90m) Ski Jumping	M	Silver	1
+2010	POL	K90 Individual (70m) Ski Jumping	M	Silver	1
+1968	ROU	Two-man Bobsleigh	M	Bronze	1
+1994	RUS	10km Biathlon	M	Gold	1
+1994	RUS	10km Biathlon	M	Bronze	1
+1994	RUS	20km Biathlon	M	Gold	1
+1994	RUS	4x7.5km Relay Biathlon	M	Silver	1
+1994	RUS	Individual Figure Skating	M	Gold	1
+1994	RUS	500m Speed Skating	M	Gold	1
+1994	RUS	500m Speed Skating	M	Silver	1
+1994	RUS	1000m Speed Skating	M	Bronze	1
+1994	RUS	Moguls Freestyle Ski.	M	Silver	1
+1998	RUS	4x7.5km Relay Biathlon	M	Bronze	1
+1998	RUS	Ice Hockey Ice Hockey	M	Silver	1
+1998	RUS	Individual Figure Skating	M	Gold	1
+1998	RUS	Individual Nordic Combined	M	Bronze	1
+2002	RUS	Individual Figure Skating	M	Gold	1
+2002	RUS	50km Cross Country S	M	Gold	1
+2002	RUS	Individual Figure Skating	M	Silver	1
+2002	RUS	20km Biathlon	M	Bronze	1
+2002	RUS	Ice Hockey Ice Hockey	M	Bronze	1
+2006	RUS	Individual Figure Skating	M	Gold	1
+2006	RUS	Combined 15 + 15km Mass Start Cross Country S	M	Gold	1
+2006	RUS	4x7.5km Relay Biathlon	M	Silver	1
+2006	RUS	Four-man Bobsleigh	M	Silver	1
+2006	RUS	Singles Luge	M	Silver	1
+2006	RUS	500m Speed Skating	M	Silver	1
+2006	RUS	50km Cross Country S	M	Silver	1
+2006	RUS	Team Sprint Cross Country S	M	Bronze	1
+2006	RUS	Aerials Freestyle Ski.	M	Bronze	1
+2010	RUS	15km Mass Start Biathlon	M	Gold	1
+2010	RUS	4x7.5km Relay Biathlon	M	Bronze	1
+2010	RUS	Two-man Bobsleigh	M	Bronze	1
+2010	RUS	Individual Skeleton	M	Bronze	1
+2010	RUS	Individual Figure Skating	M	Silver	1
+2010	RUS	5000m Speed Skating	M	Bronze	1
+2010	RUS	10000m Speed Skating	M	Silver	1
+2010	RUS	Sprint 1.5km Cross Country S	M	Gold	1
+2010	RUS	Sprint 1.5km Cross Country S	M	Silver	1
+2010	RUS	Team Sprint Cross Country S	M	Bronze	1
+1994	SLO	Slalom Alpine Skiing	M	Bronze	1
+2002	SLO	K120 Team (90m) Ski Jumping	M	Bronze	1
+1924	SUI	Military Patrol Biathlon	M	Gold	1
+1924	SUI	Four-man Bobsleigh	M	Gold	1
+1924	SUI	Individual Figure Skating	M	Bronze	1
+1928	SUI	Ice Hockey Ice Hockey	M	Bronze	1
+1932	SUI	Two-man Bobsleigh	M	Silver	1
+1936	SUI	Two-man Bobsleigh	M	Silver	1
+1936	SUI	Four-man Bobsleigh	M	Gold	1
+1936	SUI	Four-man Bobsleigh	M	Silver	1
+1948	SUI	Two-man Bobsleigh	M	Gold	1
+1948	SUI	Two-man Bobsleigh	M	Silver	1
+1948	SUI	Ice Hockey Ice Hockey	M	Bronze	1
+1948	SUI	Individual Figure Skating	M	Silver	1
+1948	SUI	Alpine Combined Alpine Skiing	M	Silver	1
+1948	SUI	Downhill Alpine Skiing	M	Bronze	1
+1948	SUI	Slalom Alpine Skiing	M	Gold	1
+1952	SUI	Two-man Bobsleigh	M	Bronze	1
+1952	SUI	Four-man Bobsleigh	M	Bronze	1
+1956	SUI	Two-man Bobsleigh	M	Bronze	1
+1956	SUI	Four-man Bobsleigh	M	Gold	1
+1956	SUI	Downhill Alpine Skiing	M	Silver	1
+1960	SUI	Giant Slalom Alpine Skiing	M	Gold	1
+1968	SUI	Giant Slalom Alpine Skiing	M	Silver	1
+1968	SUI	Individual Nordic Combined	M	Silver	1
+1968	SUI	Four-man Bobsleigh	M	Bronze	1
+1968	SUI	Downhill Alpine Skiing	M	Bronze	1
+1968	SUI	50km Cross Country S	M	Bronze	1
+1972	SUI	Two-man Bobsleigh	M	Bronze	1
+1972	SUI	Four-man Bobsleigh	M	Gold	1
+1972	SUI	Downhill Alpine Skiing	M	Gold	1
+1972	SUI	Downhill Alpine Skiing	M	Silver	1
+1972	SUI	Giant Slalom Alpine Skiing	M	Silver	1
+1972	SUI	Giant Slalom Alpine Skiing	M	Bronze	1
+1972	SUI	4x10km Relay Cross Country S	M	Bronze	1
+1972	SUI	K120 Individual (90m) Ski Jumping	M	Silver	1
+1976	SUI	Two-man Bobsleigh	M	Bronze	1
+1976	SUI	Four-man Bobsleigh	M	Silver	1
+1976	SUI	Downhill Alpine Skiing	M	Silver	1
+1976	SUI	Giant Slalom Alpine Skiing	M	Gold	1
+1976	SUI	Giant Slalom Alpine Skiing	M	Silver	1
+1980	SUI	Two-man Bobsleigh	M	Gold	1
+1980	SUI	Four-man Bobsleigh	M	Silver	1
+1980	SUI	Slalom Alpine Skiing	M	Bronze	1
+1984	SUI	Four-man Bobsleigh	M	Bronze	1
+1984	SUI	Downhill Alpine Skiing	M	Silver	1
+1984	SUI	Giant Slalom Alpine Skiing	M	Gold	1
+1988	SUI	Four-man Bobsleigh	M	Gold	1
+1988	SUI	Alpine Combined Alpine Skiing	M	Bronze	1
+1988	SUI	Downhill Alpine Skiing	M	Gold	1
+1988	SUI	Downhill Alpine Skiing	M	Silver	1
+1988	SUI	Giant Slalom Alpine Skiing	M	Bronze	1
+1988	SUI	50km Cross Country S	M	Bronze	1
+1988	SUI	Individual Nordic Combined	M	Gold	1
+1988	SUI	Team Nordic Combined	M	Silver	1
+1992	SUI	Two-man Bobsleigh	M	Gold	1
+1992	SUI	Four-man Bobsleigh	M	Bronze	1
+1992	SUI	Alpine Combined Alpine Skiing	M	Bronze	1
+1994	SUI	Two-man Bobsleigh	M	Gold	1
+1994	SUI	Two-man Bobsleigh	M	Silver	1
+1994	SUI	Four-man Bobsleigh	M	Silver	1
+1994	SUI	Giant Slalom Alpine Skiing	M	Silver	1
+1994	SUI	Aerials Freestyle Ski.	M	Gold	1
+1994	SUI	Team Nordic Combined	M	Bronze	1
+1998	SUI	Four-man Bobsleigh	M	Silver	1
+1998	SUI	Curling Curling	M	Gold	1
+1998	SUI	Giant Slalom Alpine Skiing	M	Bronze	1
+1998	SUI	Super-g Alpine Skiing	M	Silver	1
+1998	SUI	Giant-slalom Snowboard	M	Bronze	1
+1998	SUI	Half-pipe Snowboard	M	Gold	1
+2002	SUI	Two-man Bobsleigh	M	Silver	1
+2002	SUI	Two-man Bobsleigh	M	Bronze	1
+2002	SUI	Individual Skeleton	M	Bronze	1
+2002	SUI	Curling Curling	M	Bronze	1
+2002	SUI	K120 Individual (90m) Ski Jumping	M	Gold	1
+2002	SUI	K90 Individual (70m) Ski Jumping	M	Gold	1
+2002	SUI	Giant Parallel Slalom Snowboard	M	Gold	1
+2006	SUI	Two-man Bobsleigh	M	Bronze	1
+2006	SUI	Four-man Bobsleigh	M	Bronze	1
+2006	SUI	Individual Skeleton	M	Bronze	1
+2006	SUI	Individual Figure Skating	M	Silver	1
+2006	SUI	Downhill Alpine Skiing	M	Bronze	1
+2006	SUI	Super-g Alpine Skiing	M	Bronze	1
+2006	SUI	Giant Parallel Slalom Snowboard	M	Gold	1
+2006	SUI	Giant Parallel Slalom Snowboard	M	Silver	1
+2010	SUI	Downhill Alpine Skiing	M	Gold	1
+2010	SUI	Giant Slalom Alpine Skiing	M	Gold	1
+2010	SUI	15km Cross Country S	M	Gold	1
+2010	SUI	Ski Cross	M	Gold	1
+2010	SUI	K120 Individual (90m) Ski Jumping	M	Gold	1
+2010	SUI	K90 Individual (70m) Ski Jumping	M	Gold	1
+2010	SUI	Curling Curling	M	Bronze	1
+2010	SUI	Alpine Combined Alpine Skiing	M	Bronze	1
+2006	SVK	Snowboard Cross Snowboard	M	Silver	1
+2010	SVK	15km Mass Start Biathlon	M	Bronze	1
+1924	SWE	Curling Curling	M	Silver	1
+1924	SWE	Individual Figure Skating	M	Gold	1
+1928	SWE	Ice Hockey Ice Hockey	M	Silver	1
+1928	SWE	Individual Figure Skating	M	Gold	1
+1928	SWE	50km Cross Country S	M	Gold	1
+1928	SWE	50km Cross Country S	M	Silver	1
+1928	SWE	50km Cross Country S	M	Bronze	1
+1932	SWE	Individual Figure Skating	M	Silver	1
+1932	SWE	18km Cross Country S	M	Gold	1
+1932	SWE	18km Cross Country S	M	Silver	1
+1936	SWE	18km Cross Country S	M	Gold	1
+1936	SWE	4x10km Relay Cross Country S	M	Bronze	1
+1936	SWE	50km Cross Country S	M	Gold	1
+1936	SWE	50km Cross Country S	M	Silver	1
+1936	SWE	50km Cross Country S	M	Bronze	1
+1936	SWE	K90 Individual (70m) Ski Jumping	M	Silver	1
+1948	SWE	1500m Speed Skating	M	Silver	1
+1948	SWE	5000m Speed Skating	M	Bronze	1
+1948	SWE	10000m Speed Skating	M	Gold	1
+1948	SWE	18km Cross Country S	M	Gold	1
+1948	SWE	18km Cross Country S	M	Silver	1
+1948	SWE	18km Cross Country S	M	Bronze	1
+1948	SWE	4x10km Relay Cross Country S	M	Gold	1
+1948	SWE	50km Cross Country S	M	Gold	1
+1948	SWE	50km Cross Country S	M	Silver	1
+1948	SWE	Individual Nordic Combined	M	Bronze	1
+1952	SWE	Ice Hockey Ice Hockey	M	Bronze	1
+1952	SWE	10000m Speed Skating	M	Bronze	1
+1952	SWE	4x10km Relay Cross Country S	M	Bronze	1
+1952	SWE	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1956	SWE	5000m Speed Skating	M	Silver	1
+1956	SWE	10000m Speed Skating	M	Gold	1
+1956	SWE	Slalom Alpine Skiing	M	Bronze	1
+1956	SWE	15km Cross Country S	M	Silver	1
+1956	SWE	30km Mass Start Cross Country S	M	Silver	1
+1956	SWE	4x10km Relay Cross Country S	M	Bronze	1
+1956	SWE	50km Cross Country S	M	Gold	1
+1956	SWE	Individual Nordic Combined	M	Silver	1
+1960	SWE	20km Biathlon	M	Gold	1
+1960	SWE	10000m Speed Skating	M	Bronze	1
+1960	SWE	15km Cross Country S	M	Silver	1
+1960	SWE	30km Mass Start Cross Country S	M	Gold	1
+1960	SWE	30km Mass Start Cross Country S	M	Silver	1
+1960	SWE	50km Cross Country S	M	Bronze	1
+1964	SWE	Ice Hockey Ice Hockey	M	Silver	1
+1964	SWE	10000m Speed Skating	M	Gold	1
+1964	SWE	15km Cross Country S	M	Bronze	1
+1964	SWE	4x10km Relay Cross Country S	M	Gold	1
+1964	SWE	50km Cross Country S	M	Gold	1
+1964	SWE	50km Cross Country S	M	Silver	1
+1968	SWE	4x7.5km Relay Biathlon	M	Bronze	1
+1968	SWE	10000m Speed Skating	M	Gold	1
+1968	SWE	10000m Speed Skating	M	Bronze	1
+1968	SWE	15km Cross Country S	M	Bronze	1
+1968	SWE	4x10km Relay Cross Country S	M	Silver	1
+1972	SWE	20km Biathlon	M	Bronze	1
+1972	SWE	500m Speed Skating	M	Silver	1
+1972	SWE	1500m Speed Skating	M	Bronze	1
+1972	SWE	15km Cross Country S	M	Gold	1
+1976	SWE	Giant Slalom Alpine Skiing	M	Bronze	1
+1976	SWE	50km Cross Country S	M	Bronze	1
+1980	SWE	Ice Hockey Ice Hockey	M	Bronze	1
+1980	SWE	Giant Slalom Alpine Skiing	M	Gold	1
+1980	SWE	Slalom Alpine Skiing	M	Gold	1
+1980	SWE	15km Cross Country S	M	Gold	1
+1984	SWE	Ice Hockey Ice Hockey	M	Bronze	1
+1984	SWE	5000m Speed Skating	M	Gold	1
+1984	SWE	10000m Speed Skating	M	Silver	1
+1984	SWE	15km Cross Country S	M	Gold	1
+1984	SWE	30km Mass Start Cross Country S	M	Bronze	1
+1984	SWE	4x10km Relay Cross Country S	M	Gold	1
+1984	SWE	50km Cross Country S	M	Gold	1
+1984	SWE	50km Cross Country S	M	Silver	1
+1988	SWE	Ice Hockey Ice Hockey	M	Bronze	1
+1988	SWE	5000m Speed Skating	M	Gold	1
+1988	SWE	10000m Speed Skating	M	Gold	1
+1988	SWE	Super-g Alpine Skiing	M	Bronze	1
+1988	SWE	4x10km Relay Cross Country S	M	Gold	1
+1988	SWE	50km Cross Country S	M	Gold	1
+1992	SWE	20km Biathlon	M	Bronze	1
+1992	SWE	4x7.5km Relay Biathlon	M	Bronze	1
+1992	SWE	10km Pursuit Cross Country S	M	Bronze	1
+1994	SWE	Ice Hockey Ice Hockey	M	Gold	1
+1998	SWE	50km Cross Country S	M	Silver	1
+2002	SWE	10km Pursuit Cross Country S	M	Bronze	1
+2002	SWE	Giant Parallel Slalom Snowboard	M	Silver	1
+2006	SWE	Ice Hockey Ice Hockey	M	Gold	1
+2006	SWE	4x10km Relay Cross Country S	M	Bronze	1
+2006	SWE	Sprint 1,5km Cross Country S	M	Gold	1
+2006	SWE	Sprint 1,5km Cross Country S	M	Bronze	1
+2006	SWE	Team Sprint Cross Country S	M	Gold	1
+2010	SWE	12.5km Pursuit Biathlon	M	Gold	1
+2010	SWE	Slalom Alpine Skiing	M	Bronze	1
+2010	SWE	30km Cross Country S	M	Gold	1
+2010	SWE	30km Cross Country S	M	Bronze	1
+2010	SWE	4x10km Relay Cross Country S	M	Gold	1
+2010	SWE	50km Cross Country S	M	Bronze	1
+1928	TCH	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1948	TCH	Ice Hockey Ice Hockey	M	Silver	1
+1960	TCH	Individual Figure Skating	M	Silver	1
+1964	TCH	Ice Hockey Ice Hockey	M	Bronze	1
+1968	TCH	Ice Hockey Ice Hockey	M	Silver	1
+1968	TCH	K120 Individual (90m) Ski Jumping	M	Silver	1
+1968	TCH	K90 Individual (70m) Ski Jumping	M	Gold	1
+1972	TCH	Ice Hockey Ice Hockey	M	Bronze	1
+1972	TCH	Individual Figure Skating	M	Gold	1
+1976	TCH	Ice Hockey Ice Hockey	M	Silver	1
+1984	TCH	Ice Hockey Ice Hockey	M	Silver	1
+1984	TCH	Individual Figure Skating	M	Bronze	1
+1984	TCH	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1988	TCH	4x10km Relay Cross Country S	M	Bronze	1
+1988	TCH	K90 Individual (70m) Ski Jumping	M	Silver	1
+1988	TCH	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1992	TCH	Ice Hockey Ice Hockey	M	Bronze	1
+1992	TCH	Individual Figure Skating	M	Bronze	1
+1992	TCH	K120 Team (90m) Ski Jumping	M	Bronze	1
+1956	URS	Ice Hockey Ice Hockey	M	Gold	1
+1956	URS	500m Speed Skating	M	Gold	1
+1956	URS	1500m Speed Skating	M	Gold	1
+1956	URS	5000m Speed Skating	M	Gold	1
+1956	URS	4x10km Relay Cross Country S	M	Gold	1
+1956	URS	500m Speed Skating	M	Silver	1
+1956	URS	5000m Speed Skating	M	Bronze	1
+1956	URS	10000m Speed Skating	M	Bronze	1
+1956	URS	15km Cross Country S	M	Bronze	1
+1956	URS	30km Mass Start Cross Country S	M	Bronze	1
+1956	URS	50km Cross Country S	M	Bronze	1
+1960	URS	500m Speed Skating	M	Gold	1
+1960	URS	1500m Speed Skating	M	Gold	1
+1960	URS	5000m Speed Skating	M	Gold	1
+1960	URS	10000m Speed Skating	M	Silver	1
+1960	URS	20km Biathlon	M	Bronze	1
+1960	URS	Ice Hockey Ice Hockey	M	Bronze	1
+1960	URS	500m Speed Skating	M	Bronze	1
+1960	URS	1500m Speed Skating	M	Bronze	1
+1960	URS	30km Mass Start Cross Country S	M	Bronze	1
+1960	URS	4x10km Relay Cross Country S	M	Bronze	1
+1960	URS	Individual Nordic Combined	M	Bronze	1
+1964	URS	20km Biathlon	M	Gold	1
+1964	URS	20km Biathlon	M	Silver	1
+1964	URS	Ice Hockey Ice Hockey	M	Gold	1
+1964	URS	500m Speed Skating	M	Silver	1
+1964	URS	1500m Speed Skating	M	Gold	1
+1964	URS	30km Mass Start Cross Country S	M	Bronze	1
+1964	URS	4x10km Relay Cross Country S	M	Bronze	1
+1964	URS	Individual Nordic Combined	M	Silver	1
+1968	URS	20km Biathlon	M	Silver	1
+1968	URS	20km Biathlon	M	Bronze	1
+1968	URS	4x7.5km Relay Biathlon	M	Gold	1
+1968	URS	Ice Hockey Ice Hockey	M	Gold	1
+1968	URS	50km Cross Country S	M	Silver	1
+1968	URS	K120 Individual (90m) Ski Jumping	M	Gold	1
+1972	URS	4x7.5km Relay Biathlon	M	Gold	1
+1972	URS	Ice Hockey Ice Hockey	M	Gold	1
+1972	URS	30km Mass Start Cross Country S	M	Gold	1
+1972	URS	4x10km Relay Cross Country S	M	Gold	1
+1972	URS	Individual Figure Skating	M	Silver	1
+1972	URS	15km Cross Country S	M	Silver	1
+1972	URS	500m Speed Skating	M	Bronze	1
+1972	URS	50km Cross Country S	M	Bronze	1
+1976	URS	20km Biathlon	M	Gold	1
+1976	URS	20km Biathlon	M	Bronze	1
+1976	URS	4x7.5km Relay Biathlon	M	Gold	1
+1976	URS	Ice Hockey Ice Hockey	M	Gold	1
+1976	URS	Individual Figure Skating	M	Silver	1
+1976	URS	500m Speed Skating	M	Gold	1
+1976	URS	500m Speed Skating	M	Silver	1
+1976	URS	1000m Speed Skating	M	Bronze	1
+1976	URS	1500m Speed Skating	M	Silver	1
+1976	URS	15km Cross Country S	M	Gold	1
+1976	URS	15km Cross Country S	M	Silver	1
+1976	URS	30km Mass Start Cross Country S	M	Gold	1
+1976	URS	30km Mass Start Cross Country S	M	Bronze	1
+1976	URS	4x10km Relay Cross Country S	M	Bronze	1
+1980	URS	10km Biathlon	M	Silver	1
+1980	URS	10km Biathlon	M	Bronze	1
+1980	URS	20km Biathlon	M	Gold	1
+1980	URS	4x7.5km Relay Biathlon	M	Gold	1
+1980	URS	Ice Hockey Ice Hockey	M	Silver	1
+1980	URS	500m Speed Skating	M	Silver	1
+1980	URS	1000m Speed Skating	M	Bronze	1
+1980	URS	30km Mass Start Cross Country S	M	Gold	1
+1980	URS	30km Mass Start Cross Country S	M	Silver	1
+1980	URS	4x10km Relay Cross Country S	M	Gold	1
+1980	URS	50km Cross Country S	M	Gold	1
+1980	URS	50km Cross Country S	M	Bronze	1
+1984	URS	4x7.5km Relay Biathlon	M	Gold	1
+1984	URS	Two-man Bobsleigh	M	Bronze	1
+1984	URS	Ice Hockey Ice Hockey	M	Gold	1
+1984	URS	Singles Luge	M	Silver	1
+1984	URS	Singles Luge	M	Bronze	1
+1984	URS	500m Speed Skating	M	Gold	1
+1984	URS	1000m Speed Skating	M	Silver	1
+1984	URS	1500m Speed Skating	M	Silver	1
+1984	URS	1500m Speed Skating	M	Bronze	1
+1984	URS	5000m Speed Skating	M	Silver	1
+1984	URS	10000m Speed Skating	M	Gold	1
+1984	URS	30km Mass Start Cross Country S	M	Gold	1
+1984	URS	30km Mass Start Cross Country S	M	Silver	1
+1984	URS	4x10km Relay Cross Country S	M	Silver	1
+1988	URS	10km Biathlon	M	Silver	1
+1988	URS	10km Biathlon	M	Bronze	1
+1988	URS	20km Biathlon	M	Silver	1
+1988	URS	4x7.5km Relay Biathlon	M	Gold	1
+1988	URS	Two-man Bobsleigh	M	Gold	1
+1988	URS	Four-man Bobsleigh	M	Bronze	1
+1988	URS	Ice Hockey Ice Hockey	M	Gold	1
+1988	URS	Singles Luge	M	Bronze	1
+1988	URS	Individual Figure Skating	M	Bronze	1
+1988	URS	1000m Speed Skating	M	Gold	1
+1988	URS	1000m Speed Skating	M	Bronze	1
+1988	URS	15km Cross Country S	M	Gold	1
+1988	URS	15km Cross Country S	M	Bronze	1
+1988	URS	30km Mass Start Cross Country S	M	Gold	1
+1988	URS	30km Mass Start Cross Country S	M	Silver	1
+1988	URS	4x10km Relay Cross Country S	M	Silver	1
+1988	URS	Individual Nordic Combined	M	Bronze	1
+1924	USA	Ice Hockey Ice Hockey	M	Silver	1
+1924	USA	500m Speed Skating	M	Gold	1
+1924	USA	K90 Individual (70m) Ski Jumping	M	Bronze	1
+1928	USA	Five-man Bobsleigh	M	Gold	1
+1928	USA	Five-man Bobsleigh	M	Silver	1
+1928	USA	Individual Skeleton	M	Gold	1
+1928	USA	Individual Skeleton	M	Silver	1
+1928	USA	500m Speed Skating	M	Bronze	1
+1932	USA	Two-man Bobsleigh	M	Gold	1
+1932	USA	Two-man Bobsleigh	M	Bronze	1
+1932	USA	Four-man Bobsleigh	M	Gold	1
+1932	USA	Four-man Bobsleigh	M	Silver	1
+1932	USA	Ice Hockey Ice Hockey	M	Silver	1
+1932	USA	500m Speed Skating	M	Gold	1
+1932	USA	1500m Speed Skating	M	Gold	1
+1932	USA	5000m Speed Skating	M	Gold	1
+1932	USA	5000m Speed Skating	M	Silver	1
+1932	USA	10000m Speed Skating	M	Gold	1
+1936	USA	Two-man Bobsleigh	M	Gold	1
+1936	USA	Two-man Bobsleigh	M	Bronze	1
+1936	USA	Ice Hockey Ice Hockey	M	Bronze	1
+1936	USA	500m Speed Skating	M	Bronze	1
+1948	USA	Two-man Bobsleigh	M	Bronze	1
+1948	USA	Four-man Bobsleigh	M	Gold	1
+1948	USA	Four-man Bobsleigh	M	Bronze	1
+1948	USA	Individual Skeleton	M	Silver	1
+1948	USA	Individual Figure Skating	M	Gold	1
+1948	USA	500m Speed Skating	M	Silver	1
+1952	USA	Individual Figure Skating	M	Gold	1
+1952	USA	500m Speed Skating	M	Gold	1
+1952	USA	Two-man Bobsleigh	M	Silver	1
+1952	USA	Four-man Bobsleigh	M	Silver	1
+1952	USA	Ice Hockey Ice Hockey	M	Silver	1
+1952	USA	500m Speed Skating	M	Silver	1
+1952	USA	Individual Figure Skating	M	Bronze	1
+1956	USA	Four-man Bobsleigh	M	Bronze	1
+1956	USA	Ice Hockey Ice Hockey	M	Silver	1
+1956	USA	Individual Figure Skating	M	Gold	1
+1956	USA	Individual Figure Skating	M	Silver	1
+1956	USA	Individual Figure Skating	M	Bronze	1
+1960	USA	Ice Hockey Ice Hockey	M	Gold	1
+1960	USA	Individual Figure Skating	M	Gold	1
+1960	USA	500m Speed Skating	M	Silver	1
+1964	USA	Individual Figure Skating	M	Bronze	1
+1964	USA	500m Speed Skating	M	Gold	1
+1964	USA	Slalom Alpine Skiing	M	Silver	1
+1964	USA	Slalom Alpine Skiing	M	Bronze	1
+1968	USA	Individual Figure Skating	M	Silver	1
+1968	USA	500m Speed Skating	M	Silver	1
+1972	USA	Ice Hockey Ice Hockey	M	Silver	1
+1976	USA	500m Speed Skating	M	Bronze	1
+1976	USA	1000m Speed Skating	M	Gold	1
+1976	USA	30km Mass Start Cross Country S	M	Silver	1
+1980	USA	Ice Hockey Ice Hockey	M	Gold	1
+1980	USA	Individual Figure Skating	M	Bronze	1
+1980	USA	500m Speed Skating	M	Gold	1
+1980	USA	1000m Speed Skating	M	Gold	1
+1980	USA	1500m Speed Skating	M	Gold	1
+1980	USA	5000m Speed Skating	M	Gold	1
+1980	USA	10000m Speed Skating	M	Gold	1
+1980	USA	Slalom Alpine Skiing	M	Silver	1
+1984	USA	Individual Figure Skating	M	Gold	1
+1984	USA	Downhill Alpine Skiing	M	Gold	1
+1984	USA	Slalom Alpine Skiing	M	Gold	1
+1984	USA	Slalom Alpine Skiing	M	Silver	1
+1988	USA	Individual Figure Skating	M	Gold	1
+1988	USA	1500m Speed Skating	M	Silver	1
+1992	USA	Individual Figure Skating	M	Silver	1
+1992	USA	Moguls Freestyle Ski.	M	Bronze	1
+1994	USA	5000m Relay Short Track S.	M	Silver	1
+1994	USA	1000m Speed Skating	M	Gold	1
+1994	USA	Downhill Alpine Skiing	M	Gold	1
+1994	USA	Super-g Alpine Skiing	M	Silver	1
+1998	USA	Aerials Freestyle Ski.	M	Gold	1
+1998	USA	Moguls Freestyle Ski.	M	Gold	1
+1998	USA	Half-pipe Snowboard	M	Bronze	1
+2002	USA	Four-man Bobsleigh	M	Silver	1
+2002	USA	Four-man Bobsleigh	M	Bronze	1
+2002	USA	Individual Skeleton	M	Gold	1
+2002	USA	Ice Hockey Ice Hockey	M	Silver	1
+2002	USA	Individual Figure Skating	M	Bronze	1
+2002	USA	500m Short Track S.	M	Bronze	1
+2002	USA	1000m Short Track S.	M	Silver	1
+2002	USA	1500m Short Track S.	M	Gold	1
+2002	USA	500m Speed Skating	M	Gold	1
+2002	USA	500m Speed Skating	M	Bronze	1
+2002	USA	1000m Speed Skating	M	Bronze	1
+2002	USA	1500m Speed Skating	M	Gold	1
+2002	USA	5000m Speed Skating	M	Silver	1
+2002	USA	Alpine Combined Alpine Skiing	M	Silver	1
+2002	USA	Giant Slalom Alpine Skiing	M	Silver	1
+2002	USA	Aerials Freestyle Ski.	M	Silver	1
+2002	USA	Moguls Freestyle Ski.	M	Silver	1
+2002	USA	Giant Parallel Slalom Snowboard	M	Bronze	1
+2002	USA	Half-pipe Snowboard	M	Gold	1
+2002	USA	Half-pipe Snowboard	M	Silver	1
+2002	USA	Half-pipe Snowboard	M	Bronze	1
+2006	USA	500m Short Track S.	M	Gold	1
+2006	USA	500m Speed Skating	M	Gold	1
+2006	USA	1000m Speed Skating	M	Gold	1
+2006	USA	5000m Speed Skating	M	Gold	1
+2006	USA	Alpine Combined Alpine Skiing	M	Gold	1
+2006	USA	Half-pipe Snowboard	M	Gold	1
+2006	USA	Snowboard Cross Snowboard	M	Gold	1
+2006	USA	1000m Speed Skating	M	Silver	1
+2006	USA	1500m Speed Skating	M	Silver	1
+2006	USA	10000m Speed Skating	M	Silver	1
+2006	USA	Half-pipe Snowboard	M	Silver	1
+2006	USA	Curling Curling	M	Bronze	1
+2006	USA	1000m Short Track S.	M	Bronze	1
+2006	USA	5000m Relay Short Track S.	M	Bronze	1
+2006	USA	1500m Speed Skating	M	Bronze	1
+2006	USA	Moguls Freestyle Ski.	M	Bronze	1
+2010	USA	Four-man Bobsleigh	M	Gold	1
+2010	USA	Individual Figure Skating	M	Gold	1
+2010	USA	1000m Speed Skating	M	Gold	1
+2010	USA	Alpine Combined Alpine Skiing	M	Gold	1
+2010	USA	Individual Sprint Nordic Combined	M	Gold	1
+2010	USA	Half-pipe Snowboard	M	Gold	1
+2010	USA	Snowboard Cross Snowboard	M	Gold	1
+2010	USA	Ice Hockey Ice Hockey	M	Silver	1
+2010	USA	1500m Short Track S.	M	Silver	1
+2010	USA	1500m Speed Skating	M	Silver	1
+2010	USA	Team Pursuit Speed Skating	M	Silver	1
+2010	USA	Super-g Alpine Skiing	M	Silver	1
+2010	USA	Aerials Freestyle Ski.	M	Silver	1
+2010	USA	Individual Nordic Combined	M	Silver	1
+2010	USA	Individual Sprint Nordic Combined	M	Silver	1
+2010	USA	Team Nordic Combined	M	Silver	1
+2010	USA	1000m Short Track S.	M	Bronze	1
+2010	USA	1500m Short Track S.	M	Bronze	1
+2010	USA	5000m Relay Short Track S.	M	Bronze	1
+2010	USA	1000m Speed Skating	M	Bronze	1
+2010	USA	Downhill Alpine Skiing	M	Bronze	1
+2010	USA	Super-g Alpine Skiing	M	Bronze	1
+2010	USA	Moguls Freestyle Ski.	M	Bronze	1
+2010	USA	Half-pipe Snowboard	M	Bronze	1
+1984	YUG	Giant Slalom Alpine Skiing	M	Silver	1
+1988	YUG	K120 Individual (90m) Ski Jumping	M	Bronze	1
+1988	YUG	K120 Team (90m) Ski Jumping	M	Silver	1
+1924	AUT	Individual Figure Skating	W	Gold	1
+1924	GBR	Individual Figure Skating	W	Bronze	1
+1924	USA	Individual Figure Skating	W	Silver	1
+1928	AUT	Individual Figure Skating	W	Silver	1
+1928	NOR	Individual Figure Skating	W	Gold	1
+1928	USA	Individual Figure Skating	W	Bronze	1
+1932	AUT	Individual Figure Skating	W	Silver	1
+1932	NOR	Individual Figure Skating	W	Gold	1
+1932	USA	Individual Figure Skating	W	Bronze	1
+1936	GBR	Individual Figure Skating	W	Silver	1
+1936	NOR	Individual Figure Skating	W	Gold	1
+1936	SWE	Individual Figure Skating	W	Bronze	1
+1936	GER	Alpine Combined Alpine Skiing	W	Gold	1
+1936	GER	Alpine Combined Alpine Skiing	W	Silver	1
+1936	NOR	Alpine Combined Alpine Skiing	W	Bronze	1
+1948	AUT	Individual Figure Skating	W	Silver	1
+1948	CAN	Individual Figure Skating	W	Gold	1
+1948	GBR	Individual Figure Skating	W	Bronze	1
+1948	AUT	Alpine Combined Alpine Skiing	W	Gold	1
+1948	AUT	Alpine Combined Alpine Skiing	W	Bronze	1
+1948	USA	Alpine Combined Alpine Skiing	W	Silver	1
+1948	AUT	Downhill Alpine Skiing	W	Silver	1
+1948	AUT	Downhill Alpine Skiing	W	Bronze	1
+1948	SUI	Downhill Alpine Skiing	W	Gold	1
+1948	AUT	Slalom Alpine Skiing	W	Bronze	1
+1948	SUI	Slalom Alpine Skiing	W	Silver	1
+1948	USA	Slalom Alpine Skiing	W	Gold	1
+1952	FRA	Individual Figure Skating	W	Bronze	1
+1952	GBR	Individual Figure Skating	W	Gold	1
+1952	USA	Individual Figure Skating	W	Silver	1
+1952	AUT	Downhill Alpine Skiing	W	Gold	1
+1952	GER	Downhill Alpine Skiing	W	Silver	1
+1952	ITA	Downhill Alpine Skiing	W	Bronze	1
+1952	AUT	Giant Slalom Alpine Skiing	W	Silver	1
+1952	GER	Giant Slalom Alpine Skiing	W	Bronze	1
+1952	USA	Giant Slalom Alpine Skiing	W	Gold	1
+1952	GER	Slalom Alpine Skiing	W	Silver	1
+1952	GER	Slalom Alpine Skiing	W	Bronze	1
+1952	USA	Slalom Alpine Skiing	W	Gold	1
+1952	FIN	10km Cross Country S	W	Gold	1
+1952	FIN	10km Cross Country S	W	Silver	1
+1952	FIN	10km Cross Country S	W	Bronze	1
+1956	AUT	Individual Figure Skating	W	Bronze	1
+1956	USA	Individual Figure Skating	W	Gold	1
+1956	USA	Individual Figure Skating	W	Silver	1
+1956	CAN	Downhill Alpine Skiing	W	Bronze	1
+1956	SUI	Downhill Alpine Skiing	W	Gold	1
+1956	SUI	Downhill Alpine Skiing	W	Silver	1
+1956	AUT	Giant Slalom Alpine Skiing	W	Silver	1
+1956	AUT	Giant Slalom Alpine Skiing	W	Bronze	1
+1956	EUA	Giant Slalom Alpine Skiing	W	Gold	1
+1956	AUT	Slalom Alpine Skiing	W	Silver	1
+1956	SUI	Slalom Alpine Skiing	W	Gold	1
+1956	URS	Slalom Alpine Skiing	W	Bronze	1
+1956	SWE	10km Cross Country S	W	Bronze	1
+1956	URS	10km Cross Country S	W	Gold	1
+1956	URS	10km Cross Country S	W	Silver	1
+1956	FIN	3x5km Relay Cross Country S	W	Gold	1
+1956	SWE	3x5km Relay Cross Country S	W	Bronze	1
+1956	URS	3x5km Relay Cross Country S	W	Silver	1
+1960	NED	Individual Figure Skating	W	Silver	1
+1960	USA	Individual Figure Skating	W	Gold	1
+1960	USA	Individual Figure Skating	W	Bronze	1
+1960	EUA	500m Speed Skating	W	Gold	1
+1960	URS	500m Speed Skating	W	Silver	1
+1960	USA	500m Speed Skating	W	Bronze	1
+1960	EUA	1000m Speed Skating	W	Silver	1
+1960	URS	1000m Speed Skating	W	Gold	1
+1960	URS	1000m Speed Skating	W	Bronze	1
+1960	POL	1500m Speed Skating	W	Silver	1
+1960	POL	1500m Speed Skating	W	Bronze	1
+1960	URS	1500m Speed Skating	W	Gold	1
+1960	FIN	3000m Speed Skating	W	Bronze	1
+1960	URS	3000m Speed Skating	W	Gold	1
+1960	URS	3000m Speed Skating	W	Silver	1
+1960	AUT	Downhill Alpine Skiing	W	Bronze	1
+1960	EUA	Downhill Alpine Skiing	W	Gold	1
+1960	USA	Downhill Alpine Skiing	W	Silver	1
+1960	ITA	Giant Slalom Alpine Skiing	W	Bronze	1
+1960	SUI	Giant Slalom Alpine Skiing	W	Gold	1
+1960	USA	Giant Slalom Alpine Skiing	W	Silver	1
+1960	CAN	Slalom Alpine Skiing	W	Gold	1
+1960	EUA	Slalom Alpine Skiing	W	Bronze	1
+1960	USA	Slalom Alpine Skiing	W	Silver	1
+1960	URS	10km Cross Country S	W	Gold	1
+1960	URS	10km Cross Country S	W	Silver	1
+1960	URS	10km Cross Country S	W	Bronze	1
+1960	FIN	3x5km Relay Cross Country S	W	Bronze	1
+1960	SWE	3x5km Relay Cross Country S	W	Gold	1
+1960	URS	3x5km Relay Cross Country S	W	Silver	1
+1964	AUT	Singles Luge	W	Bronze	1
+1964	EUA	Singles Luge	W	Gold	1
+1964	EUA	Singles Luge	W	Silver	1
+1964	AUT	Individual Figure Skating	W	Silver	1
+1964	CAN	Individual Figure Skating	W	Bronze	1
+1964	NED	Individual Figure Skating	W	Gold	1
+1964	URS	500m Speed Skating	W	Gold	1
+1964	URS	500m Speed Skating	W	Silver	1
+1964	URS	500m Speed Skating	W	Bronze	1
+1964	FIN	1000m Speed Skating	W	Bronze	1
+1964	URS	1000m Speed Skating	W	Gold	1
+1964	URS	1000m Speed Skating	W	Silver	1
+1964	FIN	1500m Speed Skating	W	Silver	1
+1964	URS	1500m Speed Skating	W	Gold	1
+1964	URS	1500m Speed Skating	W	Bronze	1
+1964	PRK	3000m Speed Skating	W	Silver	1
+1964	URS	3000m Speed Skating	W	Gold	1
+1964	URS	3000m Speed Skating	W	Silver	1
+1964	AUT	Downhill Alpine Skiing	W	Gold	1
+1964	AUT	Downhill Alpine Skiing	W	Silver	1
+1964	AUT	Downhill Alpine Skiing	W	Bronze	1
+1964	FRA	Giant Slalom Alpine Skiing	W	Gold	1
+1964	FRA	Giant Slalom Alpine Skiing	W	Silver	1
+1964	USA	Giant Slalom Alpine Skiing	W	Silver	1
+1964	FRA	Slalom Alpine Skiing	W	Gold	1
+1964	FRA	Slalom Alpine Skiing	W	Silver	1
+1964	USA	Slalom Alpine Skiing	W	Bronze	1
+1964	URS	10km Cross Country S	W	Gold	1
+1964	URS	10km Cross Country S	W	Silver	1
+1964	URS	10km Cross Country S	W	Bronze	1
+1964	FIN	3x5km Relay Cross Country S	W	Bronze	1
+1964	SWE	3x5km Relay Cross Country S	W	Silver	1
+1964	URS	3x5km Relay Cross Country S	W	Gold	1
+1964	FIN	5km Cross Country S	W	Silver	1
+1964	URS	5km Cross Country S	W	Gold	1
+1964	URS	5km Cross Country S	W	Bronze	1
+1968	FRG	Singles Luge	W	Silver	1
+1968	FRG	Singles Luge	W	Bronze	1
+1968	ITA	Singles Luge	W	Gold	1
+1968	GDR	Individual Figure Skating	W	Silver	1
+1968	TCH	Individual Figure Skating	W	Bronze	1
+1968	USA	Individual Figure Skating	W	Gold	1
+1968	URS	500m Speed Skating	W	Gold	1
+1968	USA	500m Speed Skating	W	Silver	1
+1968	NED	1000m Speed Skating	W	Gold	1
+1968	URS	1000m Speed Skating	W	Silver	1
+1968	USA	1000m Speed Skating	W	Bronze	1
+1968	FIN	1500m Speed Skating	W	Gold	1
+1968	NED	1500m Speed Skating	W	Silver	1
+1968	NED	1500m Speed Skating	W	Bronze	1
+1968	FIN	3000m Speed Skating	W	Silver	1
+1968	NED	3000m Speed Skating	W	Gold	1
+1968	NED	3000m Speed Skating	W	Bronze	1
+1968	AUT	Downhill Alpine Skiing	W	Gold	1
+1968	AUT	Downhill Alpine Skiing	W	Bronze	1
+1968	FRA	Downhill Alpine Skiing	W	Silver	1
+1968	CAN	Giant Slalom Alpine Skiing	W	Gold	1
+1968	FRA	Giant Slalom Alpine Skiing	W	Silver	1
+1968	SUI	Giant Slalom Alpine Skiing	W	Bronze	1
+1968	CAN	Slalom Alpine Skiing	W	Silver	1
+1968	FRA	Slalom Alpine Skiing	W	Gold	1
+1968	FRA	Slalom Alpine Skiing	W	Bronze	1
+1968	NOR	10km Cross Country S	W	Silver	1
+1968	NOR	10km Cross Country S	W	Bronze	1
+1968	SWE	10km Cross Country S	W	Gold	1
+1968	NOR	3x5km Relay Cross Country S	W	Gold	1
+1968	SWE	3x5km Relay Cross Country S	W	Silver	1
+1968	URS	3x5km Relay Cross Country S	W	Bronze	1
+1968	SWE	5km Cross Country S	W	Gold	1
+1968	URS	5km Cross Country S	W	Silver	1
+1968	URS	5km Cross Country S	W	Bronze	1
+1972	AUT	Individual Figure Skating	W	Gold	1
+1972	AUT	Downhill Alpine Skiing	W	Silver	1
+1972	AUT	Giant Slalom Alpine Skiing	W	Silver	1
+1972	AUT	Giant Slalom Alpine Skiing	W	Bronze	1
+1972	CAN	Individual Figure Skating	W	Silver	1
+1972	FIN	10km Cross Country S	W	Bronze	1
+1972	FIN	3x5km Relay Cross Country S	W	Silver	1
+1972	FIN	5km Cross Country S	W	Silver	1
+1972	FRA	Slalom Alpine Skiing	W	Silver	1
+1972	FRA	Slalom Alpine Skiing	W	Bronze	1
+1972	FRG	1000m Speed Skating	W	Gold	1
+1972	GDR	Singles Luge	W	Gold	1
+1972	GDR	Singles Luge	W	Silver	1
+1972	GDR	Singles Luge	W	Bronze	1
+1972	NED	3000m Speed Skating	W	Gold	1
+1972	NED	1000m Speed Skating	W	Silver	1
+1972	NED	1500m Speed Skating	W	Silver	1
+1972	NED	1500m Speed Skating	W	Bronze	1
+1972	NED	3000m Speed Skating	W	Bronze	1
+1972	NOR	3x5km Relay Cross Country S	W	Bronze	1
+1972	SUI	Downhill Alpine Skiing	W	Gold	1
+1972	SUI	Giant Slalom Alpine Skiing	W	Gold	1
+1972	TCH	5km Cross Country S	W	Bronze	1
+1972	URS	500m Speed Skating	W	Silver	1
+1972	URS	500m Speed Skating	W	Bronze	1
+1972	URS	10km Cross Country S	W	Gold	1
+1972	URS	10km Cross Country S	W	Silver	1
+1972	URS	3x5km Relay Cross Country S	W	Gold	1
+1972	URS	5km Cross Country S	W	Gold	1
+1972	USA	Individual Figure Skating	W	Bronze	1
+1972	USA	500m Speed Skating	W	Gold	1
+1972	USA	1000m Speed Skating	W	Bronze	1
+1972	USA	1500m Speed Skating	W	Gold	1
+1972	USA	3000m Speed Skating	W	Silver	1
+1972	USA	Downhill Alpine Skiing	W	Bronze	1
+1972	USA	Slalom Alpine Skiing	W	Gold	1
+1976	FRG	Singles Luge	W	Bronze	1
+1976	GDR	Singles Luge	W	Gold	1
+1976	GDR	Singles Luge	W	Silver	1
+1976	GDR	Individual Figure Skating	W	Bronze	1
+1976	NED	Individual Figure Skating	W	Silver	1
+1976	USA	Individual Figure Skating	W	Gold	1
+1976	CAN	500m Speed Skating	W	Silver	1
+1976	URS	500m Speed Skating	W	Bronze	1
+1976	USA	500m Speed Skating	W	Gold	1
+1976	URS	1000m Speed Skating	W	Gold	1
+1976	USA	1000m Speed Skating	W	Silver	1
+1976	USA	1000m Speed Skating	W	Bronze	1
+1976	URS	1500m Speed Skating	W	Gold	1
+1976	URS	1500m Speed Skating	W	Bronze	1
+1976	USA	1500m Speed Skating	W	Silver	1
+1976	GDR	3000m Speed Skating	W	Silver	1
+1976	NOR	3000m Speed Skating	W	Bronze	1
+1976	URS	3000m Speed Skating	W	Gold	1
+1976	AUT	Downhill Alpine Skiing	W	Silver	1
+1976	FRG	Downhill Alpine Skiing	W	Gold	1
+1976	USA	Downhill Alpine Skiing	W	Bronze	1
+1976	CAN	Giant Slalom Alpine Skiing	W	Gold	1
+1976	FRA	Giant Slalom Alpine Skiing	W	Bronze	1
+1976	FRG	Giant Slalom Alpine Skiing	W	Silver	1
+1976	FRG	Slalom Alpine Skiing	W	Gold	1
+1976	ITA	Slalom Alpine Skiing	W	Silver	1
+1976	LIE	Slalom Alpine Skiing	W	Bronze	1
+1976	FIN	10km Cross Country S	W	Silver	1
+1976	URS	10km Cross Country S	W	Gold	1
+1976	URS	10km Cross Country S	W	Bronze	1
+1976	FIN	4x5km Relay Cross Country S	W	Silver	1
+1976	GDR	4x5km Relay Cross Country S	W	Bronze	1
+1976	URS	4x5km Relay Cross Country S	W	Gold	1
+1976	FIN	5km Cross Country S	W	Gold	1
+1976	URS	5km Cross Country S	W	Silver	1
+1976	URS	5km Cross Country S	W	Bronze	1
+1980	GDR	Singles Luge	W	Silver	1
+1980	URS	Singles Luge	W	Gold	1
+1980	URS	Singles Luge	W	Bronze	1
+1980	FRG	Individual Figure Skating	W	Bronze	1
+1980	GDR	Individual Figure Skating	W	Gold	1
+1980	USA	Individual Figure Skating	W	Silver	1
+1980	GDR	500m Speed Skating	W	Gold	1
+1980	URS	500m Speed Skating	W	Bronze	1
+1980	USA	500m Speed Skating	W	Silver	1
+1980	GDR	1000m Speed Skating	W	Bronze	1
+1980	URS	1000m Speed Skating	W	Gold	1
+1980	USA	1000m Speed Skating	W	Silver	1
+1980	GDR	1500m Speed Skating	W	Bronze	1
+1980	NED	1500m Speed Skating	W	Gold	1
+1980	NED	1500m Speed Skating	W	Silver	1
+1980	GDR	3000m Speed Skating	W	Silver	1
+1980	NOR	3000m Speed Skating	W	Gold	1
+1980	USA	3000m Speed Skating	W	Bronze	1
+1980	AUT	Downhill Alpine Skiing	W	Gold	1
+1980	LIE	Downhill Alpine Skiing	W	Silver	1
+1980	SUI	Downhill Alpine Skiing	W	Bronze	1
+1980	FRA	Giant Slalom Alpine Skiing	W	Bronze	1
+1980	FRG	Giant Slalom Alpine Skiing	W	Silver	1
+1980	LIE	Giant Slalom Alpine Skiing	W	Gold	1
+1980	FRG	Slalom Alpine Skiing	W	Silver	1
+1980	LIE	Slalom Alpine Skiing	W	Gold	1
+1980	SUI	Slalom Alpine Skiing	W	Bronze	1
+1980	FIN	10km Cross Country S	W	Silver	1
+1980	FIN	10km Cross Country S	W	Bronze	1
+1980	GDR	10km Cross Country S	W	Gold	1
+1980	GDR	4x5km Relay Cross Country S	W	Gold	1
+1980	NOR	4x5km Relay Cross Country S	W	Bronze	1
+1980	URS	4x5km Relay Cross Country S	W	Silver	1
+1980	FIN	5km Cross Country S	W	Silver	1
+1980	TCH	5km Cross Country S	W	Bronze	1
+1980	URS	5km Cross Country S	W	Gold	1
+1984	FIN	10km Cross Country S	W	Gold	1
+1984	FIN	20km Cross Country S	W	Gold	1
+1984	FIN	5km Cross Country S	W	Gold	1
+1984	FIN	4x5km Relay Cross Country S	W	Bronze	1
+1984	FRA	Giant Slalom Alpine Skiing	W	Bronze	1
+1984	FRA	Slalom Alpine Skiing	W	Silver	1
+1984	GDR	Singles Luge	W	Gold	1
+1984	GDR	Singles Luge	W	Silver	1
+1984	GDR	Singles Luge	W	Bronze	1
+1984	GDR	Individual Figure Skating	W	Gold	1
+1984	GDR	500m Speed Skating	W	Gold	1
+1984	GDR	500m Speed Skating	W	Silver	1
+1984	GDR	1000m Speed Skating	W	Gold	1
+1984	GDR	1000m Speed Skating	W	Silver	1
+1984	GDR	1500m Speed Skating	W	Gold	1
+1984	GDR	1500m Speed Skating	W	Silver	1
+1984	GDR	3000m Speed Skating	W	Gold	1
+1984	GDR	3000m Speed Skating	W	Silver	1
+1984	GDR	3000m Speed Skating	W	Bronze	1
+1984	ITA	Slalom Alpine Skiing	W	Gold	1
+1984	LIE	Slalom Alpine Skiing	W	Bronze	1
+1984	NOR	4x5km Relay Cross Country S	W	Gold	1
+1984	NOR	5km Cross Country S	W	Silver	1
+1984	NOR	10km Cross Country S	W	Bronze	1
+1984	NOR	20km Cross Country S	W	Bronze	1
+1984	SUI	Downhill Alpine Skiing	W	Gold	1
+1984	SUI	Downhill Alpine Skiing	W	Silver	1
+1984	TCH	Downhill Alpine Skiing	W	Bronze	1
+1984	TCH	4x5km Relay Cross Country S	W	Silver	1
+1984	TCH	5km Cross Country S	W	Bronze	1
+1984	URS	10km Cross Country S	W	Silver	1
+1984	URS	20km Cross Country S	W	Silver	1
+1984	URS	Individual Figure Skating	W	Bronze	1
+1984	URS	500m Speed Skating	W	Bronze	1
+1984	URS	1000m Speed Skating	W	Bronze	1
+1984	URS	1500m Speed Skating	W	Bronze	1
+1984	USA	Individual Figure Skating	W	Silver	1
+1984	USA	Giant Slalom Alpine Skiing	W	Gold	1
+1984	USA	Giant Slalom Alpine Skiing	W	Silver	1
+1988	AUT	Alpine Combined Alpine Skiing	W	Gold	1
+1988	AUT	Super-g Alpine Skiing	W	Gold	1
+1988	CAN	Individual Figure Skating	W	Silver	1
+1988	CAN	Downhill Alpine Skiing	W	Bronze	1
+1988	CAN	Super-g Alpine Skiing	W	Bronze	1
+1988	FIN	5km Cross Country S	W	Gold	1
+1988	FIN	10km Cross Country S	W	Bronze	1
+1988	FIN	4x5km Relay Cross Country S	W	Bronze	1
+1988	FRG	Downhill Alpine Skiing	W	Gold	1
+1988	FRG	Giant Slalom Alpine Skiing	W	Silver	1
+1988	FRG	Slalom Alpine Skiing	W	Bronze	1
+1988	GDR	Singles Luge	W	Gold	1
+1988	GDR	Singles Luge	W	Silver	1
+1988	GDR	Singles Luge	W	Bronze	1
+1988	GDR	Individual Figure Skating	W	Gold	1
+1988	GDR	500m Speed Skating	W	Silver	1
+1988	GDR	500m Speed Skating	W	Bronze	1
+1988	GDR	1000m Speed Skating	W	Gold	1
+1988	GDR	1000m Speed Skating	W	Silver	1
+1988	GDR	1500m Speed Skating	W	Silver	1
+1988	GDR	1500m Speed Skating	W	Bronze	1
+1988	GDR	3000m Speed Skating	W	Silver	1
+1988	GDR	3000m Speed Skating	W	Bronze	1
+1988	GDR	5000m Speed Skating	W	Silver	1
+1988	GDR	5000m Speed Skating	W	Bronze	1
+1988	NED	1500m Speed Skating	W	Gold	1
+1988	NED	3000m Speed Skating	W	Gold	1
+1988	NED	5000m Speed Skating	W	Gold	1
+1988	NOR	4x5km Relay Cross Country S	W	Silver	1
+1988	SUI	Alpine Combined Alpine Skiing	W	Silver	1
+1988	SUI	Alpine Combined Alpine Skiing	W	Bronze	1
+1988	SUI	Downhill Alpine Skiing	W	Silver	1
+1988	SUI	Giant Slalom Alpine Skiing	W	Gold	1
+1988	SUI	Giant Slalom Alpine Skiing	W	Bronze	1
+1988	SUI	Slalom Alpine Skiing	W	Gold	1
+1988	SUI	Super-g Alpine Skiing	W	Silver	1
+1988	URS	10km Cross Country S	W	Gold	1
+1988	URS	10km Cross Country S	W	Silver	1
+1988	URS	20km Cross Country S	W	Gold	1
+1988	URS	20km Cross Country S	W	Silver	1
+1988	URS	20km Cross Country S	W	Bronze	1
+1988	URS	4x5km Relay Cross Country S	W	Gold	1
+1988	URS	5km Cross Country S	W	Silver	1
+1988	URS	5km Cross Country S	W	Bronze	1
+1988	USA	Individual Figure Skating	W	Bronze	1
+1988	USA	500m Speed Skating	W	Gold	1
+1988	USA	1000m Speed Skating	W	Bronze	1
+1988	YUG	Slalom Alpine Skiing	W	Silver	1
+1992	CAN	15km Biathlon	W	Bronze	1
+1992	EUN	15km Biathlon	W	Silver	1
+1992	GER	15km Biathlon	W	Gold	1
+1992	EUN	3x7.5km Relay Biathlon	W	Bronze	1
+1992	FRA	3x7.5km Relay Biathlon	W	Gold	1
+1992	GER	3x7.5km Relay Biathlon	W	Silver	1
+1992	EUN	7.5km Biathlon	W	Gold	1
+1992	EUN	7.5km Biathlon	W	Bronze	1
+1992	GER	7.5km Biathlon	W	Silver	1
+1992	AUT	Singles Luge	W	Gold	1
+1992	AUT	Singles Luge	W	Silver	1
+1992	GER	Singles Luge	W	Bronze	1
+1992	JPN	Individual Figure Skating	W	Silver	1
+1992	USA	Individual Figure Skating	W	Gold	1
+1992	USA	Individual Figure Skating	W	Bronze	1
+1992	CHN	500m Short Track S.	W	Silver	1
+1992	PRK	500m Short Track S.	W	Bronze	1
+1992	USA	500m Short Track S.	W	Gold	1
+1992	CAN	3000m Relay Short Track S.	W	Gold	1
+1992	EUN	3000m Relay Short Track S.	W	Bronze	1
+1992	USA	3000m Relay Short Track S.	W	Silver	1
+1992	CHN	500m Speed Skating	W	Silver	1
+1992	GER	500m Speed Skating	W	Bronze	1
+1992	USA	500m Speed Skating	W	Gold	1
+1992	CHN	1000m Speed Skating	W	Silver	1
+1992	GER	1000m Speed Skating	W	Bronze	1
+1992	USA	1000m Speed Skating	W	Gold	1
+1992	GER	1500m Speed Skating	W	Gold	1
+1992	GER	1500m Speed Skating	W	Silver	1
+1992	JPN	1500m Speed Skating	W	Bronze	1
+1992	AUT	3000m Speed Skating	W	Bronze	1
+1992	GER	3000m Speed Skating	W	Gold	1
+1992	GER	3000m Speed Skating	W	Silver	1
+1992	GER	5000m Speed Skating	W	Gold	1
+1992	GER	5000m Speed Skating	W	Silver	1
+1992	GER	5000m Speed Skating	W	Bronze	1
+1992	AUT	Alpine Combined Alpine Skiing	W	Gold	1
+1992	AUT	Alpine Combined Alpine Skiing	W	Silver	1
+1992	FRA	Alpine Combined Alpine Skiing	W	Bronze	1
+1992	AUT	Downhill Alpine Skiing	W	Bronze	1
+1992	CAN	Downhill Alpine Skiing	W	Gold	1
+1992	USA	Downhill Alpine Skiing	W	Silver	1
+1992	AUT	Giant Slalom Alpine Skiing	W	Silver	1
+1992	SWE	Giant Slalom Alpine Skiing	W	Gold	1
+1992	USA	Giant Slalom Alpine Skiing	W	Silver	1
+1992	AUT	Slalom Alpine Skiing	W	Gold	1
+1992	ESP	Slalom Alpine Skiing	W	Bronze	1
+1992	NZL	Slalom Alpine Skiing	W	Silver	1
+1992	FRA	Super-g Alpine Skiing	W	Silver	1
+1992	GER	Super-g Alpine Skiing	W	Bronze	1
+1992	ITA	Super-g Alpine Skiing	W	Gold	1
+1992	EUN	15km Mass Start Cross Country S	W	Gold	1
+1992	EUN	15km Mass Start Cross Country S	W	Bronze	1
+1992	FIN	15km Mass Start Cross Country S	W	Silver	1
+1992	EUN	30km Cross Country S	W	Silver	1
+1992	EUN	30km Cross Country S	W	Bronze	1
+1992	ITA	30km Cross Country S	W	Gold	1
+1992	EUN	4x5km Relay Cross Country S	W	Gold	1
+1992	ITA	4x5km Relay Cross Country S	W	Bronze	1
+1992	NOR	4x5km Relay Cross Country S	W	Silver	1
+1992	EUN	5km Cross Country S	W	Silver	1
+1992	EUN	5km Cross Country S	W	Bronze	1
+1992	FIN	5km Cross Country S	W	Gold	1
+1992	EUN	Combined 5km + 10km Pursuit Cross Country S	W	Gold	1
+1992	EUN	Combined 5km + 10km Pursuit Cross Country S	W	Bronze	1
+1992	ITA	Combined 5km + 10km Pursuit Cross Country S	W	Silver	1
+1992	EUN	Moguls Freestyle Ski.	W	Silver	1
+1992	NOR	Moguls Freestyle Ski.	W	Bronze	1
+1992	USA	Moguls Freestyle Ski.	W	Gold	1
+1994	CAN	15km Biathlon	W	Gold	1
+1994	FRA	15km Biathlon	W	Silver	1
+1994	GER	15km Biathlon	W	Bronze	1
+1994	FRA	4x7.5km Relay Biathlon	W	Bronze	1
+1994	GER	4x7.5km Relay Biathlon	W	Silver	1
+1994	RUS	4x7.5km Relay Biathlon	W	Gold	1
+1994	BLR	7.5km Biathlon	W	Silver	1
+1994	CAN	7.5km Biathlon	W	Gold	1
+1994	UKR	7.5km Biathlon	W	Bronze	1
+1994	AUT	Singles Luge	W	Bronze	1
+1994	GER	Singles Luge	W	Silver	1
+1994	ITA	Singles Luge	W	Gold	1
+1994	CHN	Individual Figure Skating	W	Bronze	1
+1994	UKR	Individual Figure Skating	W	Gold	1
+1994	USA	Individual Figure Skating	W	Silver	1
+1994	CHN	500m Short Track S.	W	Silver	1
+1994	USA	500m Short Track S.	W	Gold	1
+1994	USA	500m Short Track S.	W	Bronze	1
+1994	CAN	1000m Short Track S.	W	Silver	1
+1994	KOR	1000m Short Track S.	W	Gold	1
+1994	KOR	1000m Short Track S.	W	Bronze	1
+1994	CAN	3000m Relay Short Track S.	W	Silver	1
+1994	KOR	3000m Relay Short Track S.	W	Gold	1
+1994	USA	3000m Relay Short Track S.	W	Bronze	1
+1994	CAN	500m Speed Skating	W	Silver	1
+1994	GER	500m Speed Skating	W	Bronze	1
+1994	USA	500m Speed Skating	W	Gold	1
+1994	CHN	1000m Speed Skating	W	Bronze	1
+1994	GER	1000m Speed Skating	W	Silver	1
+1994	USA	1000m Speed Skating	W	Gold	1
+1994	AUT	1500m Speed Skating	W	Gold	1
+1994	GER	1500m Speed Skating	W	Bronze	1
+1994	RUS	1500m Speed Skating	W	Silver	1
+1994	AUT	3000m Speed Skating	W	Silver	1
+1994	GER	3000m Speed Skating	W	Bronze	1
+1994	RUS	3000m Speed Skating	W	Gold	1
+1994	GER	5000m Speed Skating	W	Gold	1
+1994	GER	5000m Speed Skating	W	Silver	1
+1994	JPN	5000m Speed Skating	W	Bronze	1
+1994	SLO	Alpine Combined Alpine Skiing	W	Bronze	1
+1994	SUI	Alpine Combined Alpine Skiing	W	Silver	1
+1994	SWE	Alpine Combined Alpine Skiing	W	Gold	1
+1994	GER	Downhill Alpine Skiing	W	Gold	1
+1994	ITA	Downhill Alpine Skiing	W	Bronze	1
+1994	USA	Downhill Alpine Skiing	W	Silver	1
+1994	GER	Giant Slalom Alpine Skiing	W	Silver	1
+1994	ITA	Giant Slalom Alpine Skiing	W	Gold	1
+1994	SUI	Giant Slalom Alpine Skiing	W	Bronze	1
+1994	AUT	Slalom Alpine Skiing	W	Silver	1
+1994	SLO	Slalom Alpine Skiing	W	Bronze	1
+1994	SUI	Slalom Alpine Skiing	W	Gold	1
+1994	ITA	Super-g Alpine Skiing	W	Bronze	1
+1994	RUS	Super-g Alpine Skiing	W	Silver	1
+1994	USA	Super-g Alpine Skiing	W	Gold	1
+1994	ITA	15km Mass Start Cross Country S	W	Gold	1
+1994	RUS	15km Mass Start Cross Country S	W	Silver	1
+1994	RUS	15km Mass Start Cross Country S	W	Bronze	1
+1994	FIN	30km Cross Country S	W	Bronze	1
+1994	ITA	30km Cross Country S	W	Gold	1
+1994	NOR	30km Cross Country S	W	Silver	1
+1994	ITA	4x5km Relay Cross Country S	W	Bronze	1
+1994	NOR	4x5km Relay Cross Country S	W	Silver	1
+1994	RUS	4x5km Relay Cross Country S	W	Gold	1
+1994	FIN	5km Cross Country S	W	Bronze	1
+1994	ITA	5km Cross Country S	W	Silver	1
+1994	RUS	5km Cross Country S	W	Gold	1
+1994	ITA	Combined 5km + 10km Pursuit Cross Country S	W	Silver	1
+1994	ITA	Combined 5km + 10km Pursuit Cross Country S	W	Bronze	1
+1994	RUS	Combined 5km + 10km Pursuit Cross Country S	W	Gold	1
+1994	NOR	Aerials Freestyle Ski.	W	Bronze	1
+1994	SWE	Aerials Freestyle Ski.	W	Silver	1
+1994	UZB	Aerials Freestyle Ski.	W	Gold	1
+1994	NOR	Moguls Freestyle Ski.	W	Gold	1
+1994	RUS	Moguls Freestyle Ski.	W	Bronze	1
+1994	USA	Moguls Freestyle Ski.	W	Silver	1
+1998	BUL	15km Biathlon	W	Gold	1
+1998	GER	15km Biathlon	W	Bronze	1
+1998	UKR	15km Biathlon	W	Silver	1
+1998	GER	4x7.5km Relay Biathlon	W	Gold	1
+1998	NOR	4x7.5km Relay Biathlon	W	Bronze	1
+1998	RUS	4x7.5km Relay Biathlon	W	Silver	1
+1998	GER	7.5km Biathlon	W	Silver	1
+1998	GER	7.5km Biathlon	W	Bronze	1
+1998	RUS	7.5km Biathlon	W	Gold	1
+1998	CAN	Curling Curling	W	Gold	1
+1998	DEN	Curling Curling	W	Silver	1
+1998	SWE	Curling Curling	W	Bronze	1
+1998	CAN	Ice Hockey Ice Hockey	W	Silver	1
+1998	FIN	Ice Hockey Ice Hockey	W	Bronze	1
+1998	USA	Ice Hockey Ice Hockey	W	Gold	1
+1998	AUT	Singles Luge	W	Bronze	1
+1998	GER	Singles Luge	W	Gold	1
+1998	GER	Singles Luge	W	Silver	1
+1998	CHN	Individual Figure Skating	W	Bronze	1
+1998	USA	Individual Figure Skating	W	Gold	1
+1998	USA	Individual Figure Skating	W	Silver	1
+1998	CAN	500m Short Track S.	W	Gold	1
+1998	CHN	500m Short Track S.	W	Silver	1
+1998	KOR	500m Short Track S.	W	Bronze	1
+1998	CHN	1000m Short Track S.	W	Silver	1
+1998	KOR	1000m Short Track S.	W	Gold	1
+1998	KOR	1000m Short Track S.	W	Bronze	1
+1998	CAN	3000m Relay Short Track S.	W	Bronze	1
+1998	CHN	3000m Relay Short Track S.	W	Silver	1
+1998	KOR	3000m Relay Short Track S.	W	Gold	1
+1998	CAN	500m Speed Skating	W	Gold	1
+1998	CAN	500m Speed Skating	W	Silver	1
+1998	JPN	500m Speed Skating	W	Bronze	1
+1998	CAN	1000m Speed Skating	W	Bronze	1
+1998	NED	1000m Speed Skating	W	Gold	1
+1998	USA	1000m Speed Skating	W	Silver	1
+1998	GER	1500m Speed Skating	W	Silver	1
+1998	NED	1500m Speed Skating	W	Gold	1
+1998	USA	1500m Speed Skating	W	Bronze	1
+1998	GER	3000m Speed Skating	W	Gold	1
+1998	GER	3000m Speed Skating	W	Silver	1
+1998	GER	3000m Speed Skating	W	Bronze	1
+1998	GER	5000m Speed Skating	W	Gold	1
+1998	GER	5000m Speed Skating	W	Silver	1
+1998	KAZ	5000m Speed Skating	W	Bronze	1
+1998	GER	Alpine Combined Alpine Skiing	W	Gold	1
+1998	GER	Alpine Combined Alpine Skiing	W	Silver	1
+1998	GER	Alpine Combined Alpine Skiing	W	Bronze	1
+1998	FRA	Downhill Alpine Skiing	W	Bronze	1
+1998	GER	Downhill Alpine Skiing	W	Gold	1
+1998	SWE	Downhill Alpine Skiing	W	Silver	1
+1998	AUT	Giant Slalom Alpine Skiing	W	Silver	1
+1998	GER	Giant Slalom Alpine Skiing	W	Bronze	1
+1998	ITA	Giant Slalom Alpine Skiing	W	Gold	1
+1998	AUS	Slalom Alpine Skiing	W	Bronze	1
+1998	GER	Slalom Alpine Skiing	W	Gold	1
+1998	ITA	Slalom Alpine Skiing	W	Silver	1
+1998	AUT	Super-g Alpine Skiing	W	Silver	1
+1998	AUT	Super-g Alpine Skiing	W	Bronze	1
+1998	USA	Super-g Alpine Skiing	W	Gold	1
+1998	NOR	15km Mass Start Cross Country S	W	Bronze	1
+1998	RUS	15km Mass Start Cross Country S	W	Gold	1
+1998	RUS	15km Mass Start Cross Country S	W	Silver	1
+1998	ITA	30km Cross Country S	W	Silver	1
+1998	RUS	30km Cross Country S	W	Gold	1
+1998	RUS	30km Cross Country S	W	Bronze	1
+1998	ITA	4x5km Relay Cross Country S	W	Bronze	1
+1998	NOR	4x5km Relay Cross Country S	W	Silver	1
+1998	RUS	4x5km Relay Cross Country S	W	Gold	1
+1998	CZE	5km Cross Country S	W	Silver	1
+1998	NOR	5km Cross Country S	W	Bronze	1
+1998	RUS	5km Cross Country S	W	Gold	1
+1998	CZE	Combined 5km + 10km Pursuit Cross Country S	W	Bronze	1
+1998	RUS	Combined 5km + 10km Pursuit Cross Country S	W	Gold	1
+1998	RUS	Combined 5km + 10km Pursuit Cross Country S	W	Silver	1
+1998	CHN	Aerials Freestyle Ski.	W	Silver	1
+1998	SUI	Aerials Freestyle Ski.	W	Bronze	1
+1998	USA	Aerials Freestyle Ski.	W	Gold	1
+1998	GER	Moguls Freestyle Ski.	W	Silver	1
+1998	JPN	Moguls Freestyle Ski.	W	Gold	1
+1998	NOR	Moguls Freestyle Ski.	W	Bronze	1
+1998	AUT	Giant-slalom Snowboard	W	Bronze	1
+1998	FRA	Giant-slalom Snowboard	W	Gold	1
+1998	GER	Giant-slalom Snowboard	W	Silver	1
+1998	GER	Half-pipe Snowboard	W	Gold	1
+1998	NOR	Half-pipe Snowboard	W	Silver	1
+1998	USA	Half-pipe Snowboard	W	Bronze	1
+2002	BUL	10km Pursuit Biathlon	W	Bronze	1
+2002	GER	10km Pursuit Biathlon	W	Silver	1
+2002	RUS	10km Pursuit Biathlon	W	Gold	1
+2002	GER	15km Biathlon	W	Gold	1
+2002	NOR	15km Biathlon	W	Silver	1
+2002	SWE	15km Biathlon	W	Bronze	1
+2002	GER	4x7.5km Relay Biathlon	W	Gold	1
+2002	NOR	4x7.5km Relay Biathlon	W	Silver	1
+2002	RUS	4x7.5km Relay Biathlon	W	Bronze	1
+2002	GER	7.5km Biathlon	W	Gold	1
+2002	GER	7.5km Biathlon	W	Silver	1
+2002	SWE	7.5km Biathlon	W	Bronze	1
+2002	GER	Two-man Bobsleigh	W	Silver	1
+2002	GER	Two-man Bobsleigh	W	Bronze	1
+2002	USA	Two-man Bobsleigh	W	Gold	1
+2002	GBR	Individual Skeleton	W	Bronze	1
+2002	USA	Individual Skeleton	W	Gold	1
+2002	USA	Individual Skeleton	W	Silver	1
+2002	CAN	Curling Curling	W	Bronze	1
+2002	GBR	Curling Curling	W	Gold	1
+2002	SUI	Curling Curling	W	Silver	1
+2002	CAN	Ice Hockey Ice Hockey	W	Gold	1
+2002	SWE	Ice Hockey Ice Hockey	W	Bronze	1
+2002	USA	Ice Hockey Ice Hockey	W	Silver	1
+2002	GER	Singles Luge	W	Gold	1
+2002	GER	Singles Luge	W	Silver	1
+2002	GER	Singles Luge	W	Bronze	1
+2002	RUS	Individual Figure Skating	W	Silver	1
+2002	USA	Individual Figure Skating	W	Gold	1
+2002	USA	Individual Figure Skating	W	Bronze	1
+2002	BUL	500m Short Track S.	W	Silver	1
+2002	CHN	500m Short Track S.	W	Gold	1
+2002	CHN	500m Short Track S.	W	Bronze	1
+2002	CHN	1000m Short Track S.	W	Gold	1
+2002	CHN	1000m Short Track S.	W	Bronze	1
+2002	KOR	1000m Short Track S.	W	Silver	1
+2002	BUL	1500m Short Track S.	W	Bronze	1
+2002	KOR	1500m Short Track S.	W	Gold	1
+2002	KOR	1500m Short Track S.	W	Silver	1
+2002	CAN	3000m Relay Short Track S.	W	Bronze	1
+2002	CHN	3000m Relay Short Track S.	W	Silver	1
+2002	KOR	3000m Relay Short Track S.	W	Gold	1
+2002	CAN	500m Speed Skating	W	Gold	1
+2002	GER	500m Speed Skating	W	Silver	1
+2002	GER	500m Speed Skating	W	Bronze	1
+2002	GER	1000m Speed Skating	W	Silver	1
+2002	USA	1000m Speed Skating	W	Gold	1
+2002	USA	1000m Speed Skating	W	Bronze	1
+2002	GER	1500m Speed Skating	W	Gold	1
+2002	GER	1500m Speed Skating	W	Silver	1
+2002	USA	1500m Speed Skating	W	Bronze	1
+2002	CAN	3000m Speed Skating	W	Bronze	1
+2002	GER	3000m Speed Skating	W	Gold	1
+2002	NED	3000m Speed Skating	W	Silver	1
+2002	CAN	5000m Speed Skating	W	Bronze	1
+2002	GER	5000m Speed Skating	W	Gold	1
+2002	NED	5000m Speed Skating	W	Silver	1
+2002	AUT	Alpine Combined Alpine Skiing	W	Silver	1
+2002	CRO	Alpine Combined Alpine Skiing	W	Gold	1
+2002	GER	Alpine Combined Alpine Skiing	W	Bronze	1
+2002	AUT	Downhill Alpine Skiing	W	Bronze	1
+2002	FRA	Downhill Alpine Skiing	W	Gold	1
+2002	ITA	Downhill Alpine Skiing	W	Silver	1
+2002	CRO	Giant Slalom Alpine Skiing	W	Gold	1
+2002	SUI	Giant Slalom Alpine Skiing	W	Bronze	1
+2002	SWE	Giant Slalom Alpine Skiing	W	Silver	1
+2002	CRO	Slalom Alpine Skiing	W	Gold	1
+2002	FRA	Slalom Alpine Skiing	W	Silver	1
+2002	SWE	Slalom Alpine Skiing	W	Bronze	1
+2002	CRO	Super-g Alpine Skiing	W	Silver	1
+2002	ITA	Super-g Alpine Skiing	W	Gold	1
+2002	ITA	Super-g Alpine Skiing	W	Bronze	1
+2002	ITA	10km Cross Country S	W	Bronze	1
+2002	NOR	10km Cross Country S	W	Gold	1
+2002	RUS	10km Cross Country S	W	Silver	1
+2002	CZE	15km Mass Start Cross Country S	W	Silver	1
+2002	ITA	15km Mass Start Cross Country S	W	Gold	1
+2002	RUS	15km Mass Start Cross Country S	W	Bronze	1
+2002	ITA	30km Cross Country S	W	Gold	1
+2002	ITA	30km Cross Country S	W	Silver	1
+2002	NOR	30km Cross Country S	W	Bronze	1
+2002	GER	4x5km Relay Cross Country S	W	Gold	1
+2002	NOR	4x5km Relay Cross Country S	W	Silver	1
+2002	SUI	4x5km Relay Cross Country S	W	Bronze	1
+2002	CAN	5km Pursuit Cross Country S	W	Gold	1
+2002	CZE	5km Pursuit Cross Country S	W	Silver	1
+2002	GER	5km Pursuit Cross Country S	W	Bronze	1
+2002	GER	Sprint 1.5km Cross Country S	W	Silver	1
+2002	NOR	Sprint 1.5km Cross Country S	W	Bronze	1
+2002	RUS	Sprint 1.5km Cross Country S	W	Gold	1
+2002	AUS	Aerials Freestyle Ski.	W	Gold	1
+2002	CAN	Aerials Freestyle Ski.	W	Silver	1
+2002	CAN	Aerials Freestyle Ski.	W	Bronze	1
+2002	JPN	Moguls Freestyle Ski.	W	Bronze	1
+2002	NOR	Moguls Freestyle Ski.	W	Gold	1
+2002	USA	Moguls Freestyle Ski.	W	Silver	1
+2002	FRA	Giant Parallel Slalom Snowboard	W	Gold	1
+2002	FRA	Giant Parallel Slalom Snowboard	W	Silver	1
+2002	ITA	Giant Parallel Slalom Snowboard	W	Bronze	1
+2002	FRA	Half-pipe Snowboard	W	Silver	1
+2002	SUI	Half-pipe Snowboard	W	Bronze	1
+2002	USA	Half-pipe Snowboard	W	Gold	1
+2006	GER	10km Pursuit Biathlon	W	Gold	1
+2006	GER	10km Pursuit Biathlon	W	Silver	1
+2006	RUS	10km Pursuit Biathlon	W	Bronze	1
+2006	GER	12,5km Mass Start Biathlon	W	Silver	1
+2006	GER	12,5km Mass Start Biathlon	W	Bronze	1
+2006	SWE	12,5km Mass Start Biathlon	W	Gold	1
+2006	GER	15km Biathlon	W	Silver	1
+2006	RUS	15km Biathlon	W	Gold	1
+2006	RUS	15km Biathlon	W	Bronze	1
+2006	FRA	4x6km Relay Biathlon	W	Bronze	1
+2006	GER	4x6km Relay Biathlon	W	Silver	1
+2006	RUS	4x6km Relay Biathlon	W	Gold	1
+2006	FRA	7.5km Biathlon	W	Gold	1
+2006	SWE	7.5km Biathlon	W	Silver	1
+2006	UKR	7.5km Biathlon	W	Bronze	1
+2006	GER	Two-man Bobsleigh	W	Gold	1
+2006	ITA	Two-man Bobsleigh	W	Bronze	1
+2006	USA	Two-man Bobsleigh	W	Silver	1
+2006	CAN	Individual Skeleton	W	Bronze	1
+2006	GBR	Individual Skeleton	W	Silver	1
+2006	SUI	Individual Skeleton	W	Gold	1
+2006	CAN	Curling Curling	W	Bronze	1
+2006	SUI	Curling Curling	W	Silver	1
+2006	SWE	Curling Curling	W	Gold	1
+2006	CAN	Ice Hockey Ice Hockey	W	Gold	1
+2006	SWE	Ice Hockey Ice Hockey	W	Silver	1
+2006	USA	Ice Hockey Ice Hockey	W	Bronze	1
+2006	GER	Singles Luge	W	Gold	1
+2006	GER	Singles Luge	W	Silver	1
+2006	GER	Singles Luge	W	Bronze	1
+2006	JPN	Individual Figure Skating	W	Gold	1
+2006	RUS	Individual Figure Skating	W	Bronze	1
+2006	USA	Individual Figure Skating	W	Silver	1
+2006	BUL	500m Short Track S.	W	Silver	1
+2006	CAN	500m Short Track S.	W	Bronze	1
+2006	CHN	500m Short Track S.	W	Gold	1
+2006	CHN	1000m Short Track S.	W	Silver	1
+2006	CHN	1000m Short Track S.	W	Bronze	1
+2006	KOR	1000m Short Track S.	W	Gold	1
+2006	CHN	1500m Short Track S.	W	Bronze	1
+2006	KOR	1500m Short Track S.	W	Gold	1
+2006	KOR	1500m Short Track S.	W	Silver	1
+2006	CAN	3000m Relay Short Track S.	W	Silver	1
+2006	ITA	3000m Relay Short Track S.	W	Bronze	1
+2006	KOR	3000m Relay Short Track S.	W	Gold	1
+2006	CHN	500m Speed Skating	W	Silver	1
+2006	CHN	500m Speed Skating	W	Bronze	1
+2006	RUS	500m Speed Skating	W	Gold	1
+2006	CAN	1000m Speed Skating	W	Silver	1
+2006	GER	1000m Speed Skating	W	Bronze	1
+2006	NED	1000m Speed Skating	W	Gold	1
+2006	CAN	1500m Speed Skating	W	Gold	1
+2006	CAN	1500m Speed Skating	W	Silver	1
+2006	NED	1500m Speed Skating	W	Bronze	1
+2006	CAN	3000m Speed Skating	W	Bronze	1
+2006	NED	3000m Speed Skating	W	Gold	1
+2006	NED	3000m Speed Skating	W	Silver	1
+2006	CAN	5000m Speed Skating	W	Gold	1
+2006	CAN	5000m Speed Skating	W	Bronze	1
+2006	GER	5000m Speed Skating	W	Silver	1
+2006	CAN	Team Pursuit Speed Skating	W	Silver	1
+2006	GER	Team Pursuit Speed Skating	W	Gold	1
+2006	RUS	Team Pursuit Speed Skating	W	Bronze	1
+2006	AUT	Alpine Combined Alpine Skiing	W	Silver	1
+2006	CRO	Alpine Combined Alpine Skiing	W	Gold	1
+2006	SWE	Alpine Combined Alpine Skiing	W	Bronze	1
+2006	AUT	Downhill Alpine Skiing	W	Gold	1
+2006	SUI	Downhill Alpine Skiing	W	Silver	1
+2006	SWE	Downhill Alpine Skiing	W	Bronze	1
+2006	FIN	Giant Slalom Alpine Skiing	W	Silver	1
+2006	SWE	Giant Slalom Alpine Skiing	W	Bronze	1
+2006	USA	Giant Slalom Alpine Skiing	W	Gold	1
+2006	AUT	Slalom Alpine Skiing	W	Silver	1
+2006	AUT	Slalom Alpine Skiing	W	Bronze	1
+2006	SWE	Slalom Alpine Skiing	W	Gold	1
+2006	AUT	Super-g Alpine Skiing	W	Gold	1
+2006	AUT	Super-g Alpine Skiing	W	Bronze	1
+2006	CRO	Super-g Alpine Skiing	W	Silver	1
+2006	EST	10km Cross Country S	W	Gold	1
+2006	NOR	10km Cross Country S	W	Silver	1
+2006	NOR	10km Cross Country S	W	Bronze	1
+2006	CZE	30km Cross Country S	W	Gold	1
+2006	POL	30km Cross Country S	W	Bronze	1
+2006	RUS	30km Cross Country S	W	Silver	1
+2006	GER	4x5km Relay Cross Country S	W	Silver	1
+2006	ITA	4x5km Relay Cross Country S	W	Bronze	1
+2006	RUS	4x5km Relay Cross Country S	W	Gold	1
+2006	CZE	Combined 7.5 + 7.5km Mass Start Cross Country S	W	Silver	1
+2006	EST	Combined 7.5 + 7.5km Mass Start Cross Country S	W	Gold	1
+2006	RUS	Combined 7.5 + 7.5km Mass Start Cross Country S	W	Bronze	1
+2006	CAN	Sprint 1.5km Cross Country S	W	Gold	1
+2006	GER	Sprint 1.5km Cross Country S	W	Silver	1
+2006	RUS	Sprint 1.5km Cross Country S	W	Bronze	1
+2006	CAN	Team Sprint Cross Country S	W	Silver	1
+2006	FIN	Team Sprint Cross Country S	W	Bronze	1
+2006	SWE	Team Sprint Cross Country S	W	Gold	1
+2006	AUS	Aerials Freestyle Ski.	W	Bronze	1
+2006	CHN	Aerials Freestyle Ski.	W	Silver	1
+2006	SUI	Aerials Freestyle Ski.	W	Gold	1
+2006	CAN	Moguls Freestyle Ski.	W	Gold	1
+2006	FRA	Moguls Freestyle Ski.	W	Bronze	1
+2006	NOR	Moguls Freestyle Ski.	W	Silver	1
+2006	GER	Giant Parallel Slalom Snowboard	W	Silver	1
+2006	SUI	Giant Parallel Slalom Snowboard	W	Gold	1
+2006	USA	Giant Parallel Slalom Snowboard	W	Bronze	1
+2006	NOR	Half-pipe Snowboard	W	Bronze	1
+2006	USA	Half-pipe Snowboard	W	Gold	1
+2006	USA	Half-pipe Snowboard	W	Silver	1
+2006	CAN	Snowboard Cross Snowboard	W	Bronze	1
+2006	SUI	Snowboard Cross Snowboard	W	Gold	1
+2006	USA	Snowboard Cross Snowboard	W	Silver	1
+2010	FRA	10km Biathlon	W	Bronze	1
+2010	GER	10km Biathlon	W	Gold	1
+2010	SVK	10km Biathlon	W	Silver	1
+2010	GER	12,5km Mass Start Biathlon	W	Gold	1
+2010	GER	12,5km Mass Start Biathlon	W	Bronze	1
+2010	RUS	12,5km Mass Start Biathlon	W	Silver	1
+2010	BLR	15km Biathlon	W	Bronze	1
+2010	KAZ	15km Biathlon	W	Silver	1
+2010	NOR	15km Biathlon	W	Gold	1
+2010	FRA	4x6km Relay Biathlon	W	Silver	1
+2010	GER	4x6km Relay Biathlon	W	Bronze	1
+2010	RUS	4x6km Relay Biathlon	W	Gold	1
+2010	FRA	7.5km Biathlon	W	Bronze	1
+2010	GER	7.5km Biathlon	W	Silver	1
+2010	SVK	7.5km Biathlon	W	Gold	1
+2010	CAN	Two-woman Bobsleigh	W	Gold	1
+2010	CAN	Two-woman Bobsleigh	W	Silver	1
+2010	USA	Two-woman Bobsleigh	W	Bronze	1
+2010	GBR	Individual Skeleton	W	Gold	1
+2010	GER	Individual Skeleton	W	Silver	1
+2010	GER	Individual Skeleton	W	Bronze	1
+2010	CAN	Curling Curling	W	Silver	1
+2010	CHN	Curling Curling	W	Bronze	1
+2010	SWE	Curling Curling	W	Gold	1
+2010	CAN	Ice Hockey Ice Hockey	W	Gold	1
+2010	FIN	Ice Hockey Ice Hockey	W	Bronze	1
+2010	USA	Ice Hockey Ice Hockey	W	Silver	1
+2010	AUT	Singles Luge	W	Silver	1
+2010	GER	Singles Luge	W	Gold	1
+2010	GER	Singles Luge	W	Bronze	1
+2010	CAN	Individual Figure Skating	W	Bronze	1
+2010	JPN	Individual Figure Skating	W	Silver	1
+2010	KOR	Individual Figure Skating	W	Gold	1
+2010	CAN	500m Short Track S.	W	Silver	1
+2010	CHN	500m Short Track S.	W	Gold	1
+2010	ITA	500m Short Track S.	W	Bronze	1
+2010	CHN	1000m Short Track S.	W	Gold	1
+2010	KOR	1000m Short Track S.	W	Bronze	1
+2010	USA	1000m Short Track S.	W	Silver	1
+2010	CHN	1500m Short Track S.	W	Gold	1
+2010	KOR	1500m Short Track S.	W	Silver	1
+2010	KOR	1500m Short Track S.	W	Bronze	1
+2010	CAN	3000m Relay Short Track S.	W	Silver	1
+2010	CHN	3000m Relay Short Track S.	W	Gold	1
+2010	USA	3000m Relay Short Track S.	W	Bronze	1
+2010	CHN	500m Speed Skating	W	Bronze	1
+2010	GER	500m Speed Skating	W	Silver	1
+2010	KOR	500m Speed Skating	W	Gold	1
+2010	CAN	1000m Speed Skating	W	Gold	1
+2010	NED	1000m Speed Skating	W	Silver	1
+2010	NED	1000m Speed Skating	W	Bronze	1
+2010	CAN	1500m Speed Skating	W	Silver	1
+2010	CZE	1500m Speed Skating	W	Bronze	1
+2010	NED	1500m Speed Skating	W	Gold	1
+2010	CAN	3000m Speed Skating	W	Bronze	1
+2010	CZE	3000m Speed Skating	W	Gold	1
+2010	GER	3000m Speed Skating	W	Silver	1
+2010	CAN	5000m Speed Skating	W	Bronze	1
+2010	CZE	5000m Speed Skating	W	Gold	1
+2010	GER	5000m Speed Skating	W	Silver	1
+2010	GER	Team Pursuit Speed Skating	W	Gold	1
+2010	JPN	Team Pursuit Speed Skating	W	Silver	1
+2010	POL	Team Pursuit Speed Skating	W	Bronze	1
+2010	GER	Alpine Combined Alpine Skiing	W	Gold	1
+2010	SWE	Alpine Combined Alpine Skiing	W	Bronze	1
+2010	USA	Alpine Combined Alpine Skiing	W	Silver	1
+2010	AUT	Downhill Alpine Skiing	W	Bronze	1
+2010	USA	Downhill Alpine Skiing	W	Gold	1
+2010	USA	Downhill Alpine Skiing	W	Silver	1
+2010	AUT	Giant Slalom Alpine Skiing	W	Bronze	1
+2010	GER	Giant Slalom Alpine Skiing	W	Gold	1
+2010	SLO	Giant Slalom Alpine Skiing	W	Silver	1
+2010	AUT	Slalom Alpine Skiing	W	Silver	1
+2010	CZE	Slalom Alpine Skiing	W	Bronze	1
+2010	GER	Slalom Alpine Skiing	W	Gold	1
+2010	AUT	Super-g Alpine Skiing	W	Gold	1
+2010	SLO	Super-g Alpine Skiing	W	Silver	1
+2010	USA	Super-g Alpine Skiing	W	Bronze	1
+2010	EST	10km Cross Country S	W	Silver	1
+2010	NOR	10km Cross Country S	W	Bronze	1
+2010	SWE	10km Cross Country S	W	Gold	1
+2010	NOR	15km Cross Country S	W	Gold	1
+2010	POL	15km Cross Country S	W	Bronze	1
+2010	SWE	15km Cross Country S	W	Silver	1
+2010	FIN	30km Cross Country S	W	Bronze	1
+2010	NOR	30km Cross Country S	W	Silver	1
+2010	POL	30km Cross Country S	W	Gold	1
+2010	FIN	4x5km Relay Cross Country S	W	Bronze	1
+2010	GER	4x5km Relay Cross Country S	W	Silver	1
+2010	NOR	4x5km Relay Cross Country S	W	Gold	1
+2010	NOR	Sprint 1.5km Cross Country S	W	Gold	1
+2010	POL	Sprint 1.5km Cross Country S	W	Silver	1
+2010	SLO	Sprint 1.5km Cross Country S	W	Bronze	1
+2010	GER	Team Sprint Cross Country S	W	Gold	1
+2010	RUS	Team Sprint Cross Country S	W	Bronze	1
+2010	SWE	Team Sprint Cross Country S	W	Silver	1
+2010	AUS	Aerials Freestyle Ski.	W	Gold	1
+2010	CHN	Aerials Freestyle Ski.	W	Silver	1
+2010	CHN	Aerials Freestyle Ski.	W	Bronze	1
+2010	CAN	Moguls Freestyle Ski.	W	Silver	1
+2010	USA	Moguls Freestyle Ski.	W	Gold	1
+2010	USA	Moguls Freestyle Ski.	W	Bronze	1
+2010	CAN	Ski Cross	W	Gold	1
+2010	FRA	Ski Cross	W	Bronze	1
+2010	NOR	Ski Cross	W	Silver	1
+2010	AUT	Giant Parallel Slalom Snowboard	W	Bronze	1
+2010	NED	Giant Parallel Slalom Snowboard	W	Gold	1
+2010	RUS	Giant Parallel Slalom Snowboard	W	Silver	1
+2010	AUS	Half-pipe Snowboard	W	Gold	1
+2010	USA	Half-pipe Snowboard	W	Silver	1
+2010	USA	Half-pipe Snowboard	W	Bronze	1
+2010	CAN	Snowboard Cross Snowboard	W	Gold	1
+2010	FRA	Snowboard Cross Snowboard	W	Silver	1
+2010	SUI	Snowboard Cross Snowboard	W	Bronze	1
+1964	AUT	Doubles Luge	X	Gold	1
+1964	AUT	Doubles Luge	X	Silver	1
+1964	ITA	Doubles Luge	X	Bronze	1
+1968	AUT	Doubles Luge	X	Silver	1
+1968	FRG	Doubles Luge	X	Bronze	1
+1968	GDR	Doubles Luge	X	Gold	1
+1972	GDR	Doubles Luge	X	Gold	1
+1972	GDR	Doubles Luge	X	Bronze	1
+1972	ITA	Doubles Luge	X	Gold	1
+1976	AUT	Doubles Luge	X	Bronze	1
+1976	FRG	Doubles Luge	X	Silver	1
+1976	GDR	Doubles Luge	X	Gold	1
+1980	AUT	Doubles Luge	X	Bronze	1
+1980	GDR	Doubles Luge	X	Gold	1
+1980	ITA	Doubles Luge	X	Silver	1
+1984	FRG	Doubles Luge	X	Gold	1
+1984	GDR	Doubles Luge	X	Bronze	1
+1984	URS	Doubles Luge	X	Silver	1
+1988	FRG	Doubles Luge	X	Bronze	1
+1988	GDR	Doubles Luge	X	Gold	1
+1988	GDR	Doubles Luge	X	Silver	1
+1992	GER	Doubles Luge	X	Gold	1
+1992	GER	Doubles Luge	X	Silver	1
+1992	ITA	Doubles Luge	X	Bronze	1
+1994	GER	Doubles Luge	X	Bronze	1
+1994	ITA	Doubles Luge	X	Gold	1
+1994	ITA	Doubles Luge	X	Silver	1
+1998	GER	Doubles Luge	X	Gold	1
+1998	USA	Doubles Luge	X	Silver	1
+1998	USA	Doubles Luge	X	Bronze	1
+2002	GER	Doubles Luge	X	Gold	1
+2002	USA	Doubles Luge	X	Silver	1
+2002	USA	Doubles Luge	X	Bronze	1
+2006	AUT	Doubles Luge	X	Gold	1
+2006	GER	Doubles Luge	X	Silver	1
+2006	ITA	Doubles Luge	X	Bronze	1
+2010	AUT	Doubles Luge	X	Gold	1
+2010	GER	Doubles Luge	X	Bronze	1
+2010	LAT	Doubles Luge	X	Silver	1
+1976	URS	Ice Dancing Figure Skating	X	Gold	1
+1976	URS	Ice Dancing Figure Skating	X	Silver	1
+1976	USA	Ice Dancing Figure Skating	X	Bronze	1
+1980	HUN	Ice Dancing Figure Skating	X	Silver	1
+1980	URS	Ice Dancing Figure Skating	X	Gold	1
+1980	URS	Ice Dancing Figure Skating	X	Bronze	1
+1984	GBR	Ice Dancing Figure Skating	X	Gold	1
+1984	URS	Ice Dancing Figure Skating	X	Silver	1
+1984	URS	Ice Dancing Figure Skating	X	Bronze	1
+1988	CAN	Ice Dancing Figure Skating	X	Bronze	1
+1988	URS	Ice Dancing Figure Skating	X	Gold	1
+1988	URS	Ice Dancing Figure Skating	X	Silver	1
+1992	EUN	Ice Dancing Figure Skating	X	Gold	1
+1992	EUN	Ice Dancing Figure Skating	X	Bronze	1
+1992	FRA	Ice Dancing Figure Skating	X	Silver	1
+1994	GBR	Ice Dancing Figure Skating	X	Bronze	1
+1994	RUS	Ice Dancing Figure Skating	X	Gold	1
+1994	RUS	Ice Dancing Figure Skating	X	Silver	1
+1998	FRA	Ice Dancing Figure Skating	X	Bronze	1
+1998	RUS	Ice Dancing Figure Skating	X	Gold	1
+1998	RUS	Ice Dancing Figure Skating	X	Silver	1
+2002	FRA	Ice Dancing Figure Skating	X	Gold	1
+2002	ITA	Ice Dancing Figure Skating	X	Bronze	1
+2002	RUS	Ice Dancing Figure Skating	X	Silver	1
+2006	RUS	Ice Dancing Figure Skating	X	Gold	1
+2006	UKR	Ice Dancing Figure Skating	X	Bronze	1
+2006	USA	Ice Dancing Figure Skating	X	Silver	1
+2010	CAN	Ice Dancing Figure Skating	X	Gold	1
+2010	RUS	Ice Dancing Figure Skating	X	Bronze	1
+2010	USA	Ice Dancing Figure Skating	X	Silver	1
+1924	AUT	Pairs Figure Skating	X	Gold	1
+1924	FIN	Pairs Figure Skating	X	Silver	1
+1924	FRA	Pairs Figure Skating	X	Bronze	1
+1928	AUT	Pairs Figure Skating	X	Silver	1
+1928	AUT	Pairs Figure Skating	X	Bronze	1
+1928	FRA	Pairs Figure Skating	X	Gold	1
+1932	FRA	Pairs Figure Skating	X	Gold	1
+1932	HUN	Pairs Figure Skating	X	Bronze	1
+1932	USA	Pairs Figure Skating	X	Silver	1
+1936	AUT	Pairs Figure Skating	X	Silver	1
+1936	GER	Pairs Figure Skating	X	Gold	1
+1936	HUN	Pairs Figure Skating	X	Bronze	1
+1948	BEL	Pairs Figure Skating	X	Gold	1
+1948	CAN	Pairs Figure Skating	X	Bronze	1
+1948	HUN	Pairs Figure Skating	X	Silver	1
+1952	GER	Pairs Figure Skating	X	Gold	1
+1952	HUN	Pairs Figure Skating	X	Bronze	1
+1952	USA	Pairs Figure Skating	X	Silver	1
+1956	AUT	Pairs Figure Skating	X	Gold	1
+1956	CAN	Pairs Figure Skating	X	Silver	1
+1956	HUN	Pairs Figure Skating	X	Bronze	1
+1960	CAN	Pairs Figure Skating	X	Gold	1
+1960	EUA	Pairs Figure Skating	X	Silver	1
+1960	USA	Pairs Figure Skating	X	Bronze	1
+1964	CAN	Pairs Figure Skating	X	Bronze	1
+1964	EUA	Pairs Figure Skating	X	Silver	1
+1964	URS	Pairs Figure Skating	X	Gold	1
+1968	FRG	Pairs Figure Skating	X	Bronze	1
+1968	URS	Pairs Figure Skating	X	Gold	1
+1968	URS	Pairs Figure Skating	X	Silver	1
+1972	GDR	Pairs Figure Skating	X	Bronze	1
+1972	URS	Pairs Figure Skating	X	Gold	1
+1972	URS	Pairs Figure Skating	X	Silver	1
+1976	GDR	Pairs Figure Skating	X	Silver	1
+1976	GDR	Pairs Figure Skating	X	Bronze	1
+1976	URS	Pairs Figure Skating	X	Gold	1
+1980	GDR	Pairs Figure Skating	X	Bronze	1
+1980	URS	Pairs Figure Skating	X	Gold	1
+1980	URS	Pairs Figure Skating	X	Silver	1
+1984	URS	Pairs Figure Skating	X	Gold	1
+1984	URS	Pairs Figure Skating	X	Bronze	1
+1984	USA	Pairs Figure Skating	X	Silver	1
+1988	URS	Pairs Figure Skating	X	Gold	1
+1988	URS	Pairs Figure Skating	X	Silver	1
+1988	USA	Pairs Figure Skating	X	Bronze	1
+1992	CAN	Pairs Figure Skating	X	Bronze	1
+1992	EUN	Pairs Figure Skating	X	Gold	1
+1992	EUN	Pairs Figure Skating	X	Silver	1
+1994	CAN	Pairs Figure Skating	X	Bronze	1
+1994	RUS	Pairs Figure Skating	X	Gold	1
+1994	RUS	Pairs Figure Skating	X	Silver	1
+1998	GER	Pairs Figure Skating	X	Bronze	1
+1998	RUS	Pairs Figure Skating	X	Gold	1
+1998	RUS	Pairs Figure Skating	X	Silver	1
+2002	CAN	Pairs Figure Skating	X	Gold	1
+2002	CHN	Pairs Figure Skating	X	Bronze	1
+2002	RUS	Pairs Figure Skating	X	Gold	1
+2006	CHN	Pairs Figure Skating	X	Silver	1
+2006	CHN	Pairs Figure Skating	X	Bronze	1
+2006	RUS	Pairs Figure Skating	X	Gold	1
+2010	CHN	Pairs Figure Skating	X	Gold	1
+2010	CHN	Pairs Figure Skating	X	Silver	1
+2010	GER	Pairs Figure Skating	X	Bronze	1
